@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2016-02-16T21:47:08+01:00-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -13,22 +13,20 @@
       <publicationStmt>
         <availability status="restricted"/>
       </publicationStmt>
-      <sourceDesc/>
+      <sourceDesc>
+        <bib>
+          <ref target="http://www.ebooksgratuits.com/newsendbook.php?id=662&amp;format=so">http://www.ebooksgratuits.com/newsendbook.php?id=662&amp;format=so</ref>
+        </bib>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
       <creation>
         <date when="1878"/>
       </creation>
-      <langUsage>
-        <language ident=""/>
-      </langUsage>
     </profileDesc>
   </teiHeader>
   <text>
     <body>
-      <div>
-        <head>source : <ref target="http://www.ebooksgratuits.com/newsendbook.php?id=662&amp;format=so">http://www.ebooksgratuits.com/newsendbook.php?id=662&amp;format=so</ref></head>
-      </div>
       <div>
         <head>PREMIÈRE PARTIE</head>
         <div>

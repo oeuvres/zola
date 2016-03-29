@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
-<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2016-02-19T11:53:17+01:00-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -13,7 +13,11 @@
       <publicationStmt>
         <availability status="restricted"/>
       </publicationStmt>
-      <sourceDesc/>
+      <sourceDesc>
+        <bibl>
+          <ref target="http://www.ebooksgratuits.com/newsendbook.php?id=669&amp;format=so">http://www.ebooksgratuits.com/newsendbook.php?id=669&amp;format=so</ref>
+        </bibl>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
       <creation>
@@ -26,9 +30,6 @@
   </teiHeader>
   <text>
     <body>
-      <div>
-        <head>source : <ref target="http://www.ebooksgratuits.com/newsendbook.php?id=669&amp;format=so">http://www.ebooksgratuits.com/newsendbook.php?id=669&amp;format=so</ref></head>
-      </div>
       <div>
         <head>Première partie</head>
         <div>
@@ -3657,7 +3658,7 @@
           <p>Le prêtre bredouillait le dernier verset du psaume.</p>
           <p>– <hi rend="i">Et ipse redimet Israel ex omnibus iniquitatibus ejus.</hi></p>
           <p>Il prit l’aspersoir dans le bénitier, le secoua sur le cercueil, en élevant la voix.</p>
-          <p>– <hi xml:lang="en" rend="i">Requiescat in pace</hi>.</p>
+          <p>– <foreign xml:lang="la">Requiescat in pace</foreign>.</p>
           <p> </p>
           <p>– <hi rend="i">Amen</hi>, répondirent les deux enfants de chœur.</p>
           <p>Et la bière fut descendue. Le fossoyeur avait attaché les cordes, deux hommes suffirent, ça ne pesait pas plus que le corps d’un petit enfant. Puis, le défilé recommença, de nouveau l’aspersoir passa de main en main, chacun l’agitait en croix, au-dessus de la fosse.</p>

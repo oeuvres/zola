@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
-<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2016-02-16T21:47:20+01:00-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -13,7 +13,11 @@
       <publicationStmt>
         <availability status="restricted"/>
       </publicationStmt>
-      <sourceDesc/>
+      <sourceDesc>
+        <bibl>
+          <ref target="http://www.ebooksgratuits.com/newsendbook.php?id=663&amp;format=so">http://www.ebooksgratuits.com/newsendbook.php?id=663&amp;format=so</ref>
+        </bibl>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
       <creation>
@@ -26,9 +30,6 @@
   </teiHeader>
   <text>
     <body>
-      <div>
-        <head>source : <ref target="http://www.ebooksgratuits.com/newsendbook.php?id=663&amp;format=so">http://www.ebooksgratuits.com/newsendbook.php?id=663&amp;format=so</ref></head>
-      </div>
       <div>
         <head>I</head>
         <p>À neuf heures, la salle du théâtre des Variétés était encore vide. Quelques personnes, au balcon et à l’orchestre, attendaient, perdues parmi les fauteuils de velours grenat, dans le petit jour du lustre à demi-feux. Une ombre noyait la grande tache rouge du rideau ; et pas un bruit ne venait de la scène, la rampe éteinte, les pupitres des musiciens débandés. En haut seulement, à la troisième galerie, autour de la rotonde du plafond où des femmes et des enfants nus prenaient leur volée dans un ciel verdi par le gaz, des appels et des rires sortaient d’un brouhaha continu de voix, des têtes coiffées de bonnets et de casquettes s’étageaient sous les larges baies rondes, encadrées d’or. Par moments, une ouvreuse se montrait, affairée, des coupons à la main, poussant devant elle un monsieur et une dame qui s’asseyaient, l’homme en habit, la femme mince et cambrée, promenant un lent regard.</p>
@@ -126,13 +127,13 @@
         <p>Une scène, ensuite, sembla interminable. Jupiter n’en finissait pas d’assembler le conseil des dieux, pour lui soumettre la requête des maris trompés. Et toujours pas de Nana ! On gardait donc Nana pour le baisser du rideau ? Une attente si prolongée avait fini par irriter le public. Les murmures recommençaient.</p>
         <p>– Ça va mal, dit Mignon radieux à Steiner. Un joli attrapage, vous allez voir !</p>
         <p>À ce moment, les nuées, au fond, s’écartèrent, et Vénus parut. Nana, très grande, très forte pour ses dix-huit ans, dans sa tunique blanche de déesse, ses longs cheveux blonds simplement dénoués sur les épaules, descendit vers la rampe avec un aplomb tranquille, en riant au public. Et elle entama son grand air :</p>
-        <p rend="center i">Lorsque Vénus rôde le soir… </p>
+        <l>Lorsque Vénus rôde le soir… </l>
         <p>Dès le second vers, on se regardait dans la salle. Était-ce une plaisanterie, quelque gageure de Bordenave ? Jamais on n’avait entendu une voix aussi fausse, menée avec moins de méthode. Son directeur la jugeait bien, elle chantait comme une seringue. Et elle ne savait même pas se tenir en scène, elle jetait les mains en avant, dans un balancement de tout son corps, qu’on trouva peu convenable et disgracieux. Des oh ! oh ! s’élevaient déjà du parterre et des petites places, on sifflotait, lorsqu’une voix de jeune coq en train de muer, aux fauteuils d’orchestre, lança avec conviction :</p>
         <p>– Très chic !</p>
         <p>Toute la salle regarda. C’était le chérubin, l’échappé de collège, ses beaux yeux écarquillés, sa face blonde enflammée par la vue de Nana. Quand il vit le monde se tourner vers lui, il devint très rouge d’avoir ainsi parlé haut, sans le vouloir. Daguenet, son voisin, l’examinait avec un sourire, le public riait, comme désarmé et ne songeant plus à siffler ; tandis que les jeunes messieurs en gants blancs, empoignés eux aussi par le galbe de Nana, se pâmaient, applaudissaient.</p>
         <p>– C’est ça, très bien ! bravo !</p>
         <p>Nana, cependant, en voyant rire la salle, s’était mise à rire. La gaieté redoubla. Elle était drôle tout de même, cette belle fille. Son rire lui creusait un amour de petit trou dans le menton. Elle attendait, pas gênée, familière, entrant tout de suite de plain-pied avec le public, ayant l’air de dire elle-même d’un clignement d’yeux qu’elle n’avait pas de talent pour deux liards, mais que ça ne faisait rien, qu’elle avait autre chose. Et, après avoir adressé au chef d’orchestre un geste qui signifiait : « Allons-y, mon bonhomme ! » elle commença le second couplet :</p>
-        <p rend="center i">À minuit, c’est Vénus qui passe… </p>
+        <l>À minuit, c’est Vénus qui passe… </l>
         <p>C’était toujours la même voix vinaigrée, mais à présent elle grattait si bien le public au bon endroit, qu’elle lui tirait par moments un léger frisson. Nana avait gardé son rire, qui éclairait sa petite bouche rouge et luisait dans ses grands yeux, d’un bleu très clair. À certains vers un peu vifs, une friandise retroussait son nez dont les ailes roses battaient, pendant qu’une flamme passait sur ses joues. Elle continuait à se balancer, ne sachant faire que ça. Et on ne trouvait plus ça vilain du tout, au contraire ; les hommes braquaient leurs jumelles. Comme elle terminait le couplet, la voix lui manqua complètement, elle comprit qu’elle n’irait jamais au bout. Alors, sans s’inquiéter, elle donna un coup de hanche qui dessina une rondeur sous la mince tunique, tandis que, la taille pliée, la gorge renversée, elle tendait les bras. Des applaudissements éclatèrent. Tout de suite, elle s’était tournée, remontant, faisant voir sa nuque où des cheveux roux mettaient comme une toison de bête ; et les applaudissements devinrent furieux.</p>
         <p>La fin de l’acte fut plus froide. Vulcain voulait gifler Vénus. Les dieux tenaient conseil et décidaient qu’ils iraient procéder à une enquête sur la terre, avant de satisfaire les maris trompés. C’était là que Diane, surprenant des mots tendres entre Vénus et Mars, jurait de ne pas les quitter des yeux pendant le voyage. Il y avait aussi une scène où l’Amour, joué par une gamine de douze ans, répondait à toutes les questions : « Oui, maman… Non, maman », d’un ton pleurnicheur, les doigts dans le nez. Puis, Jupiter, avec la sévérité d’un maître qui se fâche, enfermait l’Amour dans un cabinet noir, en lui donnant à conjuguer vingt fois le verbe « J’aime ». On goûta davantage le finale, un chœur que la troupe et l’orchestre enlevèrent très brillamment. Mais, le rideau baissé, la claque tâcha vainement d’obtenir un rappel, tout le monde, debout, se dirigeait déjà vers les portes.</p>
         <p>On piétinait, on se bousculait, serré entre les rangs des fauteuils, échangeant ses impressions. Un même mot courait :</p>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
-<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2016-02-19T11:53:11+01:00-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -13,7 +13,11 @@
       <publicationStmt>
         <availability status="restricted"/>
       </publicationStmt>
-      <sourceDesc/>
+      <sourceDesc>
+        <bibl>
+          <ref target="http://www.ebooksgratuits.com/newsendbook.php?id=674&amp;format=so">http://www.ebooksgratuits.com/newsendbook.php?id=674&amp;format=so</ref>
+        </bibl>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
       <creation>
@@ -26,9 +30,6 @@
   </teiHeader>
   <text>
     <body>
-      <div>
-        <head>source : <ref target="http://www.ebooksgratuits.com/newsendbook.php?id=674&amp;format=so">http://www.ebooksgratuits.com/newsendbook.php?id=674&amp;format=so</ref></head>
-      </div>
       <div>
         <head>I</head>
         <p>Dans la chaleur de l’ardente après-midi de juillet, la salle, aux volets soigneusement clos, était pleine d’un grand calme. Il ne venait, des trois fenêtres, que de minces flèches de lumière, par les fentes des vieilles boiseries ; et c’était, au milieu de l’ombre, une clarté très douce, baignant les objets d’une lueur diffuse et tendre. Il faisait là relativement frais, dans l’écrasement torride qu’on sentait au-dehors, sous le coup de soleil qui incendiait la façade.</p>

@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2016-02-19T11:53:05+01:00-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="">
+<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -13,22 +13,20 @@
       <publicationStmt>
         <availability status="restricted"/>
       </publicationStmt>
-      <sourceDesc/>
+      <sourceDesc>
+        <bibl>
+          <ref target="http://www.ebooksgratuits.com/newsendbook.php?id=671&amp;format=so">http://www.ebooksgratuits.com/newsendbook.php?id=671&amp;format=so</ref>
+        </bibl>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
       <creation>
         <date when="1890"/>
       </creation>
-      <langUsage>
-        <language ident=""/>
-      </langUsage>
     </profileDesc>
   </teiHeader>
   <text>
     <body>
-      <div>
-        <head>source : <ref target="http://www.ebooksgratuits.com/newsendbook.php?id=671&amp;format=so">http://www.ebooksgratuits.com/newsendbook.php?id=671&amp;format=so</ref></head>
-      </div>
       <div>
         <head>I</head>
         <p>En entrant dans la chambre, Roubaud posa sur la table le pain d’une livre, le pâté et la bouteille de vin blanc. Mais, le matin, avant de descendre à son poste, la mère Victoire avait dû couvrir le feu de son poêle, d’un tel poussier, que la chaleur était suffocante. Et le sous-chef de gare, ayant ouvert une fenêtre, s’y accouda.</p>

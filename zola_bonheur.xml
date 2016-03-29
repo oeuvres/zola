@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
-<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2016-02-16T21:47:10+01:00-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -13,7 +13,9 @@
       <publicationStmt>
         <availability status="restricted"/>
       </publicationStmt>
-      <sourceDesc/>
+      <sourceDesc>
+        <bibl><ref target="http://www.ebooksgratuits.com/newsendbook.php?id=665&amp;format=so">http://www.ebooksgratuits.com/newsendbook.php?id=665&amp;format=so</ref></bibl>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
       <creation>
@@ -26,9 +28,6 @@
   </teiHeader>
   <text>
     <body>
-      <div>
-        <head>source : <ref target="http://www.ebooksgratuits.com/newsendbook.php?id=665&amp;format=so">http://www.ebooksgratuits.com/newsendbook.php?id=665&amp;format=so</ref></head>
-      </div>
       <div>
         <head>I</head>
         <p>Denise était venue à pied de la gare Saint-Lazare, où un train de Cherbourg l’avait débarquée avec ses deux frères, après une nuit passée sur la dure banquette d’un wagon de troisième classe. Elle tenait par la main Pépé, et Jean la suivait, tous les trois brisés du voyage, effarés et perdus, au milieu du vaste Paris, le nez levé sur les maisons, demandant à chaque carrefour la rue de la Michodière, dans laquelle leur oncle Baudu demeurait. Mais, comme elle débouchait enfin sur la place Gaillon, la jeune fille s’arrêta net de surprise.</p>

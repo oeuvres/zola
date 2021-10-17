@@ -1,2 +1,2 @@
 # zola
-Zola intégral et en TEI (bientôt)
+Zola, les Rougon-Macquart en TEI

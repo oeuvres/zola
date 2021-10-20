@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
-<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2016-02-16T21:47:08+01:00-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
@@ -28,8 +28,8 @@
   <text>
     <body>
       <div>
-        <head>PREMIÈRE PARTIE</head>
-        <div>
+        <head>Première partie</head>
+        <div type="chapter">
           <head>I</head>
           <p>La veilleuse, dans un cornet bleuâtre, brûlait sur la cheminée, derrière un livre, dont l’ombre noyait toute une moitié de la chambre. C’était une calme lueur qui coupait le guéridon et la chaise longue, baignait les gros plis des rideaux de velours, azurait la glace de l’armoire de palissandre, placée entre les deux fenêtres. L’harmonie bourgeoise de la pièce, ce bleu des tentures, des meubles et du tapis, prenait à cette heure nocturne une douceur vague de nuée. Et, en face des fenêtres, du côté de l’ombre, le lit, également tendu de velours, faisait une masse noire, éclairée seulement de la pâleur des draps. Hélène, les mains croisées, dans sa tranquille attitude de mère et de veuve, avait un léger souffle.</p>
           <p>Au milieu du silence, la pendule sonna une heure. Les bruits du quartier étaient morts. Sur ces hauteurs du Trocadéro, Paris envoyait seul son lointain ronflement. Le petit souffle d’Hélène était si doux, qu’il ne soulevait pas la ligne chaste de sa gorge. Elle sommeillait d’un beau sommeil, paisible et fort, avec son profil correct et ses cheveux châtains puissamment noués, la tête penchée, comme si elle se fût assoupie en écoutant. Au fond de la pièce, la porte d’un cabinet grande ouverte trouait le mur d’un carré de ténèbres.</p>
@@ -120,7 +120,7 @@
           <p>– Oh ! j’ai dodo !… Bonsoir, petite mère… S’il est ton ami, il sera le mien.</p>
           <p>Le médecin avait fait disparaître sa pharmacie. Il salua silencieusement et se retira. Hélène écouta un instant la respiration de l’enfant. Puis, elle s’oublia, assise sur le bord du lit, les regards et la pensée perdus. La lampe, laissée allumée, pâlissait dans le grand jour.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>II</head>
           <p>Le lendemain, Hélène songea qu’il était convenable d’aller remercier le docteur Deberle. La façon brusque dont elle l’avait forcé à la suivre, la nuit entière passée par lui auprès de Jeanne, la laissaient gênée, en face d’un service qui lui semblait sortir des visites ordinaires d’un médecin. Cependant, elle hésita pendant deux jours, répugnant à cette démarche pour des raisons qu’elle n’aurait pu dire. Ces hésitations l’occupaient du docteur ; un matin, elle le rencontra et se cacha comme un enfant. Elle fut très contrariée ensuite de ce mouvement de timidité. Sa nature tranquille et droite protestait contre ce trouble qui entrait dans sa vie. Aussi décida-t-elle qu’elle irait remercier le docteur le jour même.</p>
           <p>La crise de la petite avait eu lieu dans la nuit du mardi au mercredi, et l’on était alors au samedi. Jeanne se trouvait complètement remise. Le docteur Bodin, qui était accouru très inquiet, avait parlé du docteur Deberle avec le respect d’un pauvre vieux médecin de quartier pour un jeune confrère riche et déjà célèbre. Il racontait pourtant, en souriant d’un air fin, que la fortune venait de papa Deberle, un homme que tout Passy vénérait. Le fils avait eu simplement la peine d’hériter d’un million et demi et d’une clientèle superbe. Un garçon très fort, d’ailleurs, se hâtait d’ajouter le docteur Bodin, et avec lequel il serait très honoré d’entrer en consultation, au sujet de la chère santé de sa petite amie Jeanne.</p>
@@ -260,7 +260,7 @@
           <p>– Vous êtes bons amis, désormais, dites-vous au revoir.</p>
           <p>Et les deux enfants s’envoyèrent chacun un baiser du bout des doigts.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>III</head>
           <p>Chaque mardi, Hélène avait à dîner monsieur Rambaud et l’abbé Jouve. C’étaient eux qui, dans les premiers temps de son veuvage, avaient forcé sa porte et mis leurs couverts, avec un sans-gêne amical, pour la tirer au moins une fois par semaine de la solitude où elle vivait. Puis, ces dîners du mardi étaient devenus une véritable institution. Les convives s’y retrouvaient, comme à un devoir, juste à sept heures sonnant, avec la même joie tranquille.</p>
           <p>Ce mardi-là, Hélène, assise près d’une fenêtre, travaillait à un ouvrage de couture, profitant des dernières lueurs du crépuscule, en attendant ses invités. Elle vivait là ses journées, dans une paix très douce. Sur ces hauteurs, les bruits se mouraient. Elle aimait cette vaste chambre si calme, avec son luxe bourgeois, son palissandre et son velours bleu. Lorsque ses amis l’avaient installée, sans qu’elle s’occupât de rien, elle avait un peu souffert, les premières semaines, de ce gros luxe où monsieur Rambaud venait d’épuiser son idéal d’art et de confort, à la vive admiration de l’abbé, qui s’était récusé ; mais elle finissait par être très heureuse dans ce milieu, en le sentant solide et simple comme son cœur. Les rideaux lourds, les meubles sombres et cossus, ajoutaient à sa tranquillité. La seule récréation qu’elle prît pendant ses longues heures de travail, était de donner un regard au vaste horizon, au grand Paris qui déroulait devant elle la mer houleuse de ses toitures. Son coin de solitude ouvrait sur cette immensité.</p>
@@ -359,7 +359,7 @@
           <p>Alors, sa mère l’embrassa, en disant :</p>
           <p>– C’est inutile, ma chérie, la vieille femme se porte bien… Je ne sortirai plus, je resterai toute la journée avec toi.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>IV</head>
           <p>La semaine suivante, lorsque madame Deberle rendit à madame Grandjean sa visite, elle se montra d’une amabilité pleine de caresses. Et, sur le seuil, comme elle se retirait :</p>
           <p>– Vous savez ce que vous m’avez promis… Le premier jour de beau temps, vous descendez au jardin et vous amenez Jeanne. C’est une ordonnance du docteur.</p>
@@ -516,7 +516,7 @@
           <p>– Rien de grave, dit le docteur Bodin en redescendant, une simple foulure… Seulement, elle restera sur sa chaise longue au moins pendant quinze jours.</p>
           <p>Monsieur Deberle tapa alors amicalement sur l’épaule de Malignon. Il voulut que sa femme rentrât, parce que décidément il faisait trop frais. Et, prenant Lucien, il l’emporta lui-même, en le couvrant de baisers.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>V</head>
           <p>Les deux fenêtres de la chambre étaient grandes ouvertes, et Paris, dans l’abîme qui se creusait au pied de la maison, bâtie à pic sur la hauteur, déroulait sa plaine immense. Dix heures sonnaient, la belle matinée de février avait une douceur et une odeur de printemps.</p>
           <p>Hélène, allongée sur sa chaise longue, le genou encore emmailloté de bandes, lisait devant une des fenêtres. Elle ne souffrait plus ; mais, depuis huit jours elle était clouée là, ne pouvant même travailler à son ouvrage de couture habituel. Ne sachant que faire, elle avait ouvert un livre traînant sur le guéridon, elle qui ne lisait jamais. C’était le livre dont elle se servait chaque soir pour masquer la veilleuse, le seul qu’elle eût sorti en dix-huit mois de la petite bibliothèque, garnie par monsieur Rambaud d’ouvrages honnêtes. D’ordinaire, les romans lui semblaient faux et puérils. Celui-là, l’Ivanhoé de Walter Scott, l’avait d’abord fort ennuyée. Puis, une curiosité singulière lui était venue. Elle l’achevait, attendrie parfois, prise d’une lassitude, et elle le laissait tomber de ses mains pendant de longues minutes, les regards fixés sur le vaste horizon.</p>
@@ -560,8 +560,8 @@
         </div>
       </div>
       <div>
-        <head>DEUXIÈME PARTIE</head>
-        <div>
+        <head>Deuxième partie</head>
+        <div type="chapter">
           <head>I</head>
           <p>Un matin, Hélène s’occupait à ranger sa petite bibliothèque, dont elle bouleversait les livres depuis quelques jours, lorsque Jeanne entra en sautant, en tapant des mains.</p>
           <p>– Maman, cria-t-elle, un soldat ! Un soldat !</p>
@@ -668,7 +668,7 @@
           <p>– Dis, maman, demanda Jeanne le soir, après une longue réflexion, le cousin de Rosalie ne l’embrasse jamais, pourquoi donc ?</p>
           <p>– Et pourquoi veux-tu qu’ils s’embrassent ? répondit Hélène. Ils s’embrasseront le jour de leur fête.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>II</head>
           <p>Après le potage, ce mardi-là, Hélène tendit l’oreille en disant :</p>
           <p>– Quel déluge, entendez-vous ? Mes pauvres amis vous allez être trempés, ce soir.</p>
@@ -808,7 +808,7 @@
           <p>– Eh bien ! non, je te le promets ; sois raisonnable, couche-toi.</p>
           <p>Pendant quelques minutes encore, l’enfant muette et passionnée la serra entre ses bras, comme ne pouvant se détacher d’elle et la défendant contre ceux qui voulaient la lui prendre. Enfin, Hélène put la coucher ; mais elle dut veiller près d’elle une partie de la nuit. Des secousses l’agitaient dans son sommeil, et, toutes les demi-heures, elle ouvrait les yeux, s’assurait que sa mère était là, puis se rendormait en collant la bouche sur sa main.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>III</head>
           <p>Ce fut un mois d’une douceur adorable. Le soleil d’avril avait verdi le jardin d’une verdure tendre, légère et fine comme une dentelle. Contre la grille, les tiges folles des clématites poussaient leurs jets minces, tandis que les chèvrefeuilles en boutons exhalaient un parfum délicat, presque sucré. Aux deux bords de la pelouse, soignée et taillée, des géraniums rouges et des quarantaines blanches fleurissaient les corbeilles. Et le bouquet d’ormes, dans le fond, entre l’étranglement des constructions voisines, drapait la tenture verte de ses branches, dont les petites feuilles frissonnaient au moindre souffle.</p>
           <p>Pendant plus de trois semaines, le ciel resta bleu sans un nuage. C’était comme un miracle de printemps qui fêtait la nouvelle jeunesse, l’épanouissement qu’Hélène portait dans son cœur. Chaque après-midi, elle descendait au jardin avec Jeanne. Sa place était marquée, contre le premier orme, à droite. Une chaise l’attendait ; et, le lendemain, elle trouvait encore, sur le gravier de l’allée, les bouts de fil qu’elle avait semés la veille.</p>
@@ -908,7 +908,7 @@
           <p>– C’est pour me récompenser, reprit-elle gaiement. Tiens ! je l’ai mérité, j’ai assez couru ! Vous verrez comme ce sera réussi.</p>
           <p>Hélène resta toute froide, tandis que le docteur les regardait par-dessus la tête blonde de Lucien, qui s’était pendu à son cou.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>IV</head>
           <p>Dans le vestibule du petit hôtel, Pierre se tenait debout, en habit et en cravate blanche, ouvrant la porte à chaque roulement de voiture. Une bouffée d’air humide entrait, un reflet jaune de la pluvieuse après-midi éclairait le vestibule étroit, empli de portières et de plantes vertes. Il était deux heures, le jour baissait comme par une triste journée d’hiver.</p>
           <p>Mais, dès que le valet poussait la porte du premier salon, une clarté vive aveuglait les invités. On avait fermé les persiennes et tiré soigneusement les rideaux, pas une lueur du ciel louche ne filtrait ; et les lampes posées sur les meubles, les bougies brûlant dans le lustre et les appliques de cristal, allumaient là une chapelle ardente. Au fond du petit salon, dont les tentures réséda éteignaient un peu l’éclat des lumières, le grand salon noir et or resplendissait, décoré comme pour le bal que madame Deberle donnait tous les ans, au mois de janvier.</p>
@@ -1006,7 +1006,7 @@
           <p>Et ce bal, à côté, qui continuait avec la débandade des petits pieds ! On entendait les grelots de Blanche Berthier accompagnant les notes étouffées du piano. Madame Deberle et Pauline frappaient dans leurs mains pour marquer la mesure. C’était une polka. Hélène put voir Jeanne et Lucien passer en souriant, les mains à la taille.</p>
           <p>Alors, d’un mouvement brusque, elle se dégagea, elle se sauva dans une pièce voisine, une office où entrait le grand jour. Cette clarté soudaine l’aveugla. Elle eut peur, elle était hors d’état de rentrer dans le salon, avec cette passion qu’on devait lire sur son visage. Et, traversant le jardin, elle monta se remettre chez elle, poursuivie par les bruits dansants du bal.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>V</head>
           <p>En haut, dans sa chambre, dans cette douceur cloîtrée qu’elle retrouvait, Hélène se sentit étouffer. La pièce l’étonnait, si calme, si bien close, si endormie sous les tentures de velours bleu, tandis qu’elle y apportait le souffle court et ardent de l’émotion qui l’agitait. Était-ce sa chambre, ce coin mort de solitude où elle manquait d’air ? Alors, violemment, elle ouvrit une fenêtre, elle s’accouda en face de Paris.</p>
           <p>La pluie avait cessé, les nuages s’en allaient, pareils à un troupeau monstrueux, dont la file débandée s’enfonçait dans les brumes de l’horizon. Une trouée bleue s’était faite au-dessus de la ville, s’élargissant lentement. Mais Hélène, les coudes frémissants sur la barre d’appui, encore essoufflée d’avoir monté trop vite, ne voyait rien, n’entendait que son cœur battant à grands coups contre sa gorge, qu’il soulevait. Elle respirait longuement, il lui semblait que l’immense vallée, avec son fleuve, ses deux millions d’existences, sa cité géante, ses coteaux lointains, n’aurait point assez d’air pour lui rendre la régularité et la paix de son haleine.</p>
@@ -1050,8 +1050,8 @@
         </div>
       </div>
       <div>
-        <head>TROISIÈME PARTIE</head>
-        <div>
+        <head>Troisième partie</head>
+        <div type="chapter">
           <head>I</head>
           <p>Un matin de mai, Rosalie accourut de sa cuisine, sans lâcher le torchon qu’elle tenait à la main. Et, avec sa familiarité de servante gâtée :</p>
           <p>– Oh ! Madame, arrivez vite… Monsieur l’abbé qui est en bas, dans le jardin du docteur, en train de fouiller la terre !</p>
@@ -1169,7 +1169,7 @@
           <p>Et, lorsque Hélène, affolée, put l’emporter dans un fiacre, aidée de l’abbé qui se désolait, elle se retourna vers le porche, les mains tendues et tremblantes.</p>
           <p>– C’est cette église ! c’est cette église ! répétait-elle avec une violence où il y avait le regret et le reproche du mois de tendresse dévote qu’elle avait goûté là.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>II</head>
           <p>Le soir, Jeanne allait mieux. Elle put se lever. Pour rassurer sa mère, elle s’entêta et se traîna dans la salle à manger, où elle s’assit devant son assiette vide.</p>
           <p>– Ce ne sera rien, disait-elle en tâchant de sourire. Tu sais bien que je suis une patraque… Mange, toi. Je veux que tu manges.</p>
@@ -1295,7 +1295,7 @@
           <p>– Oui, bien contente, ma chérie… Tu ne sais pas toute la joie que tu me donnes.</p>
           <p>Et, dans le débordement de bonheur qui l’étouffait, elle s’oublia, s’appuya contre l’épaule d’Henri. Tous deux riaient à l’enfant. Mais celle-ci, lentement, parut prise d’un malaise : elle levait sur eux des regards furtifs, puis elle baissait la tête, ne mangeant plus, tandis qu’une ombre de méfiance et de colère blêmissait son visage. Il fallut la recoucher.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>III</head>
           <p>La convalescence dura des mois. En août, Jeanne était encore au lit. Elle se levait une heure ou deux, vers le soir, et c’était une immense fatigue pour elle que d’aller jusqu’à la fenêtre, où elle restait allongée dans un fauteuil, en face de Paris incendié par le soleil couchant. Ses pauvres jambes refusaient de la porter ; comme elle le disait avec un pâle sourire, elle n’avait point assez de sang pour un petit oiseau, il fallait attendre qu’elle mangeât beaucoup de soupe. On lui coupait de la viande crue dans du bouillon. Elle avait fini par aimer ça, parce qu’elle aurait bien voulu descendre jouer au jardin.</p>
           <p>Ces semaines, ces mois qui coulaient, passèrent, monotones et charmants, sans qu’Hélène comptât les jours. Elle ne sortait plus, elle oubliait le monde entier, auprès de Jeanne. Pas une nouvelle du dehors n’arrivait jusqu’à elle. C’était, devant Paris emplissant l’horizon de sa fumée et de son bruit, une retraite plus reculée et plus close que les saints ermitages perdus dans les rocs. Son enfant était sauvée, cette certitude lui suffisait, elle employait les journées à guetter le retour de la santé, heureuse d’une nuance, d’un regard brillant, d’un geste gai. À chaque heure, elle retrouvait sa fille davantage, avec ses beaux yeux et ses cheveux qui redevenaient souples. Il lui semblait qu’elle lui donnait la vie une seconde fois. Plus la résurrection était lente, et plus elle en goûtait les délices, se souvenant des jours lointains où elle la nourrissait, éprouvant, à la voir reprendre des forces, une émotion plus vive encore qu’autrefois, lorsqu’elle mesurait ses deux petits pieds dans ses mains jointes, pour savoir si elle marcherait bientôt.</p>
@@ -1394,7 +1394,7 @@
           <p>– Bien sûr… Pourquoi veux-tu que je ne sois pas heureuse ?</p>
           <p>Alors, Jeanne la serrait étroitement dans ses petits bras, comme pour la récompenser. Elle voulait l’aimer si fort, disait-elle, si fort, qu’on n’aurait pas pu trouver une mère aussi heureuse dans tout Paris.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>IV</head>
           <p>En août, le jardin du docteur Deberle était un véritable puits de feuillage. Contre la grille, les lilas et les faux ébéniers mêlaient leurs branches, tandis que les plantes grimpantes, les lierres, les chèvrefeuilles, les clématites, poussaient de toutes parts des jets sans fin, qui se glissaient, se nouaient, retombaient en pluie, allaient jusque dans les ormes du fond, après avoir couru le long des murailles ; et, là, on aurait dit une tente attachée d’un arbre à l’autre, les ormes se dressaient comme les piliers puissants et touffus d’un salon de verdure. Ce jardin était si petit, que le moindre pan d’ombre le couvrait. Au milieu, le soleil à midi faisait une seule tache jaune, dessinant la rondeur de la pelouse, flanquée de ses deux corbeilles. Contre le perron, il y avait un grand rosier, des roses thé énormes qui s’épanouissaient par centaines. Le soir, quand la chaleur tombait, le parfum en devenait pénétrant, une odeur chaude de roses s’alourdissait sous les ormes. Et rien n’était plus charmant que ce coin perdu, si embaumé, où les voisins ne pouvaient voir, et qui apportait un rêve de forêt vierge, pendant que des orgues de Barbarie jouaient des polkas dans la rue Vineuse.</p>
           <p>– Madame, disait chaque jour Rosalie, pourquoi Mademoiselle ne descend-elle pas dans le jardin ?… Elle serait joliment à son aise sous les arbres.</p>
@@ -1506,7 +1506,7 @@
           <p>– Oui, bien heureuse, ma chérie.</p>
           <p>Alors, elle rayonnait. On devait lui pardonner ses anciennes méchancetés, disait-elle. Elle en parlait comme d’une attaque indépendante de sa volonté, d’un mal de tête qui l’aurait prise tout d’un coup. Quelque chose se gonflait en elle, bien sûr elle ne savait pas quoi. Toutes sortes d’idées se battaient, des idées vagues, de vilains rêves qu’elle n’aurait seulement pu répéter. Mais c’était passé, elle guérissait, ça ne reviendrait plus.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>V</head>
           <p>La nuit tombait. Du ciel pâli, où brillaient les premières étoiles, une cendre fine semblait pleuvoir sur la grande ville, qu’elle ensevelissait lentement, sans relâche. De grands tas d’ombre emplissaient déjà les creux, tandis qu’une barre, comme un flot d’encre, montait du fond de l’horizon, mangeant les restes du jour, les lueurs hésitantes qui se retiraient vers le couchant. Il n’y avait plus, au-dessous de Passy, que quelques nappes de toitures encore distinctes. Puis le flot roula, ce furent les ténèbres.</p>
           <p>– Quelle chaude soirée ! murmura Hélène, assise devant la fenêtre, alanguie par les souffles tièdes que Paris lui envoyait.</p>
@@ -1580,8 +1580,8 @@
         </div>
       </div>
       <div>
-        <head>QUATRIÈME PARTIE</head>
-        <div>
+        <head>Quatrième partie</head>
+        <div type="chapter">
           <head>I</head>
           <p>On avait servi les rince-bouche, et les dames, délicatement, s’essuyaient les doigts. Il y eut un moment de silence autour de la table. Madame Deberle jeta un regard, pour voir si tout le monde avait fini ; puis, elle se leva sans parler, tandis que ses invités l’imitaient, au milieu d’un grand remuement de chaises. Un vieux monsieur, qui se trouvait à sa droite, s’était hâté de lui offrir le bras.</p>
           <p>– Non, non, murmura-t-elle en le menant elle-même vers une porte. Nous allons prendre le café dans le petit salon.</p>
@@ -1693,7 +1693,7 @@
           <p>– Eh bien ! adieu, dit Juliette, qui embrassa Hélène, comme cela lui arrivait dans ses heures de tendresse. Venez me voir plus souvent.</p>
           <p>Henri avait pris le manteau de fourrure, le tenait élargi, pour aider Hélène. Quand elle eut glissé ses deux bras, il remonta lui-même le collet, l’habillant ainsi avec un sourire, devant une immense glace qui couvrait un mur de l’antichambre. Ils étaient seuls, ils se voyaient dans la glace. Alors, tout d’un coup, sans se tourner, empaquetée dans sa fourrure, elle se renversa entre ses bras. Depuis trois mois, ils n’avaient échangé que des poignées de main amicales ; ils voulaient ne plus s’aimer. Lui, cessa de sourire ; sa figure changeait, ardente et gonflée. Il la serra follement, il la baisa au cou. Et elle plia la tête en arrière pour lui rendre son baiser.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>II</head>
           <p>Hélène n’avait pas dormi de la nuit. Elle se retournait, fiévreuse, et lorsqu’elle glissait à un assoupissement, toujours la même angoisse la réveillait en sursaut. Dans le cauchemar de ce demi-sommeil, elle était tourmentée d’une idée fixe, elle aurait voulu connaître le lieu du rendez-vous. Il lui semblait que cela la soulagerait. Ce ne pouvait être le petit entresol de Malignon, rue Taitbout, dont on parlait souvent chez les Deberle. Où donc ? où donc ? Et sa tête travaillait malgré elle, et elle avait tout oublié de l’aventure pour s’enfoncer dans cette recherche pleine d’énervement et de sourds désirs.</p>
           <p>Quand le jour parut, elle s’habilla, elle se surprit à dire tout haut :</p>
@@ -1810,7 +1810,7 @@
           <p>Elle s’endormit en jouant, elle tomba dans la chambre avec sa poupée entre les bras. Depuis le matin, elle ne s’était pas arrêtée. Ses petites jambes n’en pouvaient plus, la fatigue du jeu l’avait foudroyée ; et, endormie, elle riait encore, elle devait rêver qu’elle jouait toujours. Sa mère la coucha, inerte, abandonnée, en train de faire quelque grande partie avec les anges.</p>
           <p>Maintenant, Hélène était seule dans la chambre. Elle s’enferma, elle passa une soirée affreuse, près du feu mort. Sa volonté lui échappait, des pensées inavouables faisaient en elle un travail sourd. C’était comme une femme méchante et sensuelle qu’elle ne connaissait point et qui lui parlait d’une voix souveraine, à laquelle elle ne pouvait désobéir. Lorsque minuit sonna, elle se coucha péniblement. Mais, au lit, ses tourments devinrent intolérables. Elle dormait à moitié, se retournait comme sur une braise. Des images, grandies par l’insomnie, la poursuivaient. Puis, une idée se planta dans son crâne. Elle avait beau la repousser, l’idée s’enfonçait, la serrait à la gorge, la prenait tout entière. Vers deux heures, elle se leva avec la raideur et la pâle résolution d’une somnambule, elle ralluma la lampe et écrivit une lettre, en déguisant son écriture. C’était une dénonciation vague, un billet de trois lignes priant le docteur Deberle de se rendre le jour même à tel lieu, à telle heure, sans explication, sans signature. Elle cacheta l’enveloppe, mit la lettre dans la poche de sa robe, jetée, sur un fauteuil. Et, quand elle se fut couchée, elle s’endormit tout de suite, elle resta sans souffle, anéantie par un sommeil de plomb.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>III</head>
           <p>Le lendemain, Rosalie ne put servir le café au lait que vers neuf heures. Hélène s’était levée tard, courbaturée, toute pâle du cauchemar de la nuit. Elle fouilla dans la poche de sa robe, sentit la lettre, la renfonça et vint s’asseoir devant le guéridon, sans parler. Jeanne aussi avait la tête lourde, la mine grise et inquiète. Elle quittait son petit lit à regret, n’ayant pas le cœur au jeu, ce matin-là. Le ciel était couleur de suie, une lumière louche attristait la chambre, tandis que de brusques averses, de temps à autre, cinglaient les vitres.</p>
           <p>– Mademoiselle est dans ses noirs, disait Rosalie, qui causait toute seule. Elle ne peut pas être dans ses roses deux jours de suite… Voilà ce que c’est que d’avoir tant sauté hier !</p>
@@ -1946,7 +1946,7 @@
           <p>Elle n’avait pas sa voix larmoyante. Ses yeux minces luisaient, pendant qu’un rire de vieille complaisante frétillait dans les mille rides de son visage. Elle ne se gênait plus, elle lui tapota dans les mains, en écoutant ses paroles entrecoupées. Hélène lui donna vingt francs.</p>
           <p>– Dieu vous le rende ! balbutia la mère Fétu par habitude. Tout ce que vous voudrez, ma petite.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>IV</head>
           <p>Malignon, renversé dans un fauteuil, allongeant les jambes devant le grand feu qui flambait, attendait tranquillement. Il avait eu le raffinement de fermer les rideaux des fenêtres et d’allumer les bougies. La première pièce, où il se trouvait, était vivement éclairée par un petit lustre et deux candélabres. Dans la chambre, au contraire, une obscurité régnait ; seule la suspension de cristal mettait là un crépuscule à demi éteint. Malignon tira sa montre.</p>
           <p>– Fichtre ! murmura-t-il, est-ce qu’elle me ferait encore poser aujourd’hui ?</p>
@@ -2060,7 +2060,7 @@
           <p>Il se retourna, baisa encore ses pieds, monta à sa taille. La braise qui emplissait l’âtre les brûlait tous les deux. Elle n’eut pas une révolte devant ces mains tâtonnantes, que le désir égarait de nouveau. Dans l’effacement de tout ce qui l’entourait et de ce qu’elle était elle-même, le seul souvenir de sa jeunesse demeurait encore, une pièce où il faisait une chaleur aussi forte, un grand fourneau avec des fers, sur lequel elle se penchait ; et elle se rappelait qu’elle avait éprouvé un anéantissement pareil, que cela n’était pas plus doux, que les baisers dont Henri la couvrait ne lui donnaient pas une mort lente plus voluptueuse. Lorsque, tout d’un coup, il la saisit entre ses bras, pour l’emmener dans la chambre, elle eut pourtant une anxiété dernière. Elle croyait que quelqu’un avait crié, il lui semblait qu’elle oubliait quelqu’un sanglotant dans l’ombre. Mais ce ne fut qu’un frisson, elle regarda autour de la pièce, elle ne vit personne. Cette pièce lui était inconnue, aucun objet ne lui parla. Une averse plus violente tombait avec une clameur prolongée. Alors, comme prise d’un besoin de sommeil, elle s’abattit sur l’épaule d’Henri, elle se laissa emporter. Derrière eux, l’autre rideau de la portière s’échappa de son embrasse.</p>
           <p>Quand Hélène revint, les pieds nus, chercher ses souliers devant le feu qui se mourait, elle pensait que jamais ils ne s’étaient moins aimés que ce jour-là.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>V</head>
           <p>Jeanne, les yeux sur la porte, restait dans le gros chagrin du brusque départ de sa mère. Elle tourna la tête, la chambre était vide et silencieuse ; mais elle entendait encore le prolongement des bruits, des pas précipités qui s’en allaient, un froissement de jupe, la porte du palier refermée violemment. Puis, il n’y avait plus rien. Et elle était seule.</p>
           <p>Toute seule, toute seule. Sur le lit, le peignoir de sa mère, jeté à la volée, pendait, la jupe élargie, une manche contre le traversin, dans l’attitude étrangement écrasée d’une personne qui serait tombée là sanglotante et comme vidée par une immense douleur. Des linges traînaient. Un fichu noir faisait par terre une tache de deuil. Dans le désordre des sièges bousculés, du guéridon poussé devant l’armoire à glace, elle était toute seule, elle sentait des larmes l’étrangler, en regardant ce peignoir où sa mère n’était plus, étiré dans une maigreur de morte. Elle joignit les mains, elle appela une dernière fois : « Maman ! maman ! » Mais les tentures de velours bleu assourdissaient la chambre. C’était fini, elle était seule.</p>
@@ -2083,8 +2083,8 @@
         </div>
       </div>
       <div>
-        <head>CINQUIÈME PARTIE</head>
-        <div>
+        <head>Cinquième partie</head>
+        <div type="chapter">
           <head>I</head>
           <p>Il faisait nuit depuis longtemps, lorsque Hélène rentra.</p>
           <p>Pendant qu’elle montait péniblement l’escalier en s’aidant de la rampe, son parapluie s’égouttait sur les marches. Devant sa porte, elle resta quelques secondes à souffler, encore étourdie du roulement de l’averse autour d’elle, du coudoiement des gens qui couraient, du reflet des réverbères dansant le long des flaques. Elle marchait dans un rêve, dans la surprise de ces baisers qu’elle venait de recevoir et de rendre, et, tandis qu’elle cherchait sa clé, elle songeait qu’elle n’avait ni remords ni joie. Cela était ainsi, elle ne pouvait faire que cela fût autrement. Mais elle ne trouvait pas sa clé ; sans doute elle l’avait oubliée dans la poche de son autre robe. Alors, elle fut très contrariée, il lui sembla qu’elle s’était mise à la porte de chez elle. Elle dut sonner.</p>
@@ -2211,7 +2211,7 @@
           <p>Elle n’avait plus de prétexte, elle s’en alla lentement, à regret. Dans sa chambre, la bouillotte l’embarrassa. Mais toute une passion éclatait en elle. Cet engourdissement, qui l’avait tenue comme imbécile, se fondait en un flot de vie ardente, dont le ruissellement la brûlait. Elle frissonnait de la volupté qu’elle n’avait point éprouvée. Des souvenirs lui revenaient, ses sens s’éveillaient trop tard, avec un immense désir inassouvi. Droite au milieu de la pièce, elle eut un étirement de tout son corps, les mains levées et tordues, faisant craquer ses membres énervés. Oh ! elle l’aimait, elle le voulait, elle se donnerait comme ça, la fois prochaine.</p>
           <p>Et, au moment où elle ôtait son peignoir en regardant ses bras nus, un bruit l’inquiéta, elle crut que Jeanne avait toussé. Alors, elle prit la lampe. L’enfant, les paupières closes, semblait endormie. Mais, lorsque sa mère tranquillisée eut tourné le dos, elle ouvrit ses yeux tout grands, des yeux noirs qui la suivaient pendant qu’elle retournait dans la chambre. Elle ne dormait pas encore, elle ne voulait pas qu’on la fit dormir. Une nouvelle crise de toux lui déchira la gorge, et elle enfonça la tête sous la couverture, elle l’étouffa. Maintenant, elle pouvait s’en aller, sa mère ne s’en apercevrait plus. Elle gardait ses yeux ouverts dans la nuit, sachant tout, comme si elle venait de réfléchir, et mourant de ça, sans une plainte.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>II</head>
           <p>Hélène, le lendemain, eut toutes sortes d’idées pratiques. Elle s’éveilla avec l’impérieux besoin de veiller elle-même sur son bonheur, frissonnante à la crainte de perdre Henri par quelque imprudence. À cette heure frileuse du lever, tandis que la chambre engourdie dormait encore, elle l’adorait, elle le désirait, dans un élan de tout son être. Jamais elle ne s’était connu ce souci d’être habile. Sa première pensée fut qu’elle devait voir Juliette le matin même. Elle éviterait ainsi des explications fâcheuses, des recherches qui pouvaient tout compromettre.</p>
           <p>Lorsqu’elle arriva chez madame Deberle, vers neuf heures, elle la trouva déjà levée, pâle et les yeux rougis comme une héroïne de drame. Et, dès qu’elle l’aperçut, la pauvre femme se jeta dans ses bras en pleurant, en l’appelant son bon ange. Elle n’aimait pas du tout ce Malignon, oh ! elle le jurait ! Mon Dieu ! quelle aventure stupide ! Elle en serait morte, c’était certain ! car, maintenant, elle ne se sentait pas faite le moins du monde pour ces machines-là, les mensonges, les souffrances, les tyrannies d’un sentiment toujours le même. Comme cela lui semblait bon de se retrouver libre ! Elle riait d’aise ; puis, elle sanglota de nouveau en suppliant son amie de ne pas la mépriser. Au fond de sa fièvre, il y avait de la peur, elle croyait que son mari savait tout. La veille, il était rentré agité. Elle accabla Hélène de questions. Alors, celle-ci, avec une audace et une facilité qui l’étonnaient elle-même, lui conta une histoire dont elle inventait les détails un à un, abondamment. Elle lui jura que son mari ne se doutait de rien. C’était elle qui, ayant tout appris et voulant la sauver, avait imaginé d’aller ainsi troubler le rendez-vous. Juliette l’écoutait, acceptait ce roman, le visage éclairé d’une joie débordante, au milieu de ses larmes. Elle se jeta une fois encore à son cou. Et Hélène n’était nullement gênée par ses caresses, elle n’éprouvait aucun des scrupules de loyauté dont elle avait souffert autrefois. Lorsqu’elle la quitta, après lui avoir fait promettre d’être calme, elle riait au fond d’elle de son adresse, elle sortait ravie.</p>
@@ -2316,7 +2316,7 @@
           <p>Et, comme elle remontait enfin, elle rencontra Rosalie, bouleversée, qui descendait l’escalier en courant. Dès qu’elle aperçut sa maîtresse, la bonne cria :</p>
           <p>– Madame ! Madame ! dépêchez-vous !… Mademoiselle n’est pas bien. Elle crache le sang.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>III</head>
           <p>Au sortir de table, le docteur parla à sa femme d’une dame en couches, auprès de laquelle il serait sans doute forcé de passer la nuit. Il partit à neuf heures, descendit au bord de l’eau, se promena le long des quais déserts, dans la nuit noire ; un petit vent humide soufflait, la Seine grossie roulait des flots d’encre. Lorsque onze heures sonnèrent, il remonta les pentes du Trocadéro et vint rôder autour de la maison, dont la grande masse carrée paraissait un épaississement des ténèbres. Mais les vitres de la salle à manger luisaient encore. Il fit le tour, la fenêtre de la cuisine jetait aussi une clarté vive. Alors, il attendit, étonné, peu à peu inquiet. Des ombres passaient sur les rideaux, une agitation semblait emplir l’appartement. Peut-être monsieur Rambaud était-il resté à dîner ? Jamais pourtant le digne homme ne s’oubliait au-delà de dix heures. Et il n’osait monter, que dirait-il, si c’était Rosalie qui lui ouvrait ? Enfin, vers minuit, fou d’impatience, négligeant toutes les précautions, il sonna, il passa sans répondre devant la loge de madame Bergeret. En haut, ce fut Rosalie qui le reçut.</p>
           <p>– C’est vous, monsieur. Entrez. Je vais dire que vous êtes arrivé… Madame doit vous attendre.</p>
@@ -2423,7 +2423,7 @@
           <p>– Mon Dieu ! la pauvre enfant ! quel malheur !</p>
           <p>Et il ne trouva que cette parole bête et navrante. La porte s’était refermée, il descendit.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>IV</head>
           <p>Lorsque madame Deberle apprit la mort de Jeanne, elle pleura, elle eut un de ces coups de passion qui la mettaient en l’air pendant quarante-huit heures. Ce fut un désespoir bruyant, hors de toute mesure. Elle monta se jeter dans les bras d’Hélène. Puis, sur un mot entendu, l’idée de faire à la petite morte des funérailles touchantes, s’empara d’elle et bientôt l’occupa tout entière. Elle s’offrit, elle se chargeait des moindres détails. La mère, épuisée de larmes, restait anéantie sur une chaise. Monsieur Rambaud, qui agissait en son nom, perdait la tête. Il consentit avec des effusions de reconnaissance. Hélène s’éveilla un instant pour dire qu’elle voulait des fleurs, beaucoup de fleurs.</p>
           <p>Alors, sans perdre une minute, madame Deberle se donna un mal infini. Elle employa la journée du lendemain à courir chez toutes ces dames, pour leur apprendre l’affreuse nouvelle. Son rêve était d’avoir un défilé de petites filles en robe blanche. Il lui en fallait au moins trente, et elle ne rentra que lorsqu’elle eut son compte. Elle avait passé elle-même à l’administration des pompes funèbres, discutant les classes, choisissant les draperies. On tendrait les grilles du jardin, on exposerait le corps au milieu des lilas, déjà couverts de fines pointes vertes. Ce serait charmant.</p>
@@ -2499,7 +2499,7 @@
           <p>– Donne-lui ton bras, dit-il simplement à monsieur Rambaud.</p>
           <p>À l’horizon, Paris blondissait sous la radieuse matinée de printemps. Dans le cimetière, un pinson chantait.</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>V</head>
           <p>Deux ans s’étaient écoulés. Un matin de décembre, le petit cimetière dormait dans un grand froid. Il neigeait depuis la veille, une neige fine que chassait le vent du nord. Du ciel qui pâlissait, les flocons plus rares tombaient avec une légèreté volante de plumes. La neige se durcissait déjà, une haute fourrure de cygne bordait le parapet de la terrasse. Au-delà de cette ligne blanche, dans la pâleur brouillée de l’horizon, Paris s’étendait.</p>
           <p>Madame Rambaud priait encore, à genoux devant le tombeau de Jeanne, sur la neige. Son mari venait de se relever, silencieux. Ils s’étaient épousés en novembre, à Marseille. Monsieur Rambaud avait vendu sa maison des Halles, il se trouvait à Paris depuis trois jours pour terminer cette affaire ; et la voiture qui les attendait, rue des Réservoirs, devait passer à l’hôtel prendre leurs malles et les conduire ensuite au chemin de fer. Hélène avait fait le voyage dans l’unique pensée de s’agenouiller là. Elle restait immobile, la tête basse, comme perdue et ne sentant pas la froide terre qui lui glaçait les genoux.</p>

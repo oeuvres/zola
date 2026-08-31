@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
-<?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../teinte/tei2html.xsl"?>
+<?xml-model href="https://oeuvres.github.io/teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2016-02-16T21:47:17+01:00-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
@@ -30,7 +30,7 @@
   </teiHeader>
   <text>
     <body>
-      <div>
+      <div type="chapter">
         <head>I</head>
         <p>Comme six heures sonnaient au coucou de la salle à manger, Chanteau perdit tout espoir. Il se leva péniblement du fauteuil où il chauffait ses lourdes jambes de goutteux, devant un feu de coke. Depuis deux heures, il attendait madame Chanteau, qui, après une absence de cinq semaines, ramenait ce jour-là de Paris leur petite cousine Pauline Quenu, une orpheline de dix ans, dont le ménage avait accepté la tutelle.</p>
         <p>– C’est inconcevable, Véronique, dit-il en poussant la porte de la cuisine. Il leur est arrivé un malheur.</p>
@@ -265,7 +265,7 @@
         <p>– Bonsoir, mon cousin.</p>
         <p>Cinq minutes plus tard, elle avait bravement soufflé sa bougie, elle se pelotonnait au fond de son lit, drapé de mousseline. Sa lassitude donna longtemps à son sommeil une légèreté de rêve. D’abord, elle entendit Véronique monter sans précaution et traîner ses meubles, pour réveiller le monde. Ensuite, il n’y eut plus que le tonnerre grondant de la tempête : la pluie entêtée battait les ardoises, le vent ébranlait les fenêtres, hurlait sous les portes ; et, pendant une heure encore, la canonnade continua, chaque vague qui s’abattait la secouait d’un choc profond et sourd. Il lui semblait que la maison, anéantie, écrasée de silence, s’en allait dans l’eau comme un navire. Elle avait maintenant une bonne chaleur moite, sa pensée vacillante se reportait, avec une pitié secourable, vers les pauvres gens que la mer, en bas, chassait de leurs couvertures. Puis, tout sombra, elle dormit sans un souffle.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>II</head>
         <p>Dès la première semaine, la présence de Pauline apporta une joie dans la maison. Sa belle santé raisonnable, son tranquille sourire calmaient l’aigreur sourde où vivaient les Chanteau. Le père avait trouvé une garde-malade, la mère était heureuse que son fils restât davantage au logis. Seule, Véronique continuait à grogner. Il semblait que les cent cinquante mille francs, enfermés dans le secrétaire, donnaient à la famille un air plus riche, bien qu’on n’y touchât pas. Un lien nouveau était créé, et il naissait une espérance au milieu de leur ruine, sans qu’on sût au juste laquelle.</p>
         <p>Le surlendemain, dans la nuit, l’accès de goutte que Chanteau sentait venir, avait éclaté. Depuis une semaine, il éprouvait des picotements aux jointures, des frissons qui lui secouaient les membres, une horreur invincible de tout exercice. Le soir, il s’était couché plus tranquille pourtant, lorsque, à trois heures du matin, la douleur se déclara dans l’orteil du pied gauche. Elle sauta ensuite au talon, finit par envahir la cheville. Jusqu’au jour, il se plaignit doucement, suant sous les couvertures, ne voulant déranger personne. Ses crises étaient l’effroi de la maison, il attendait la dernière minute pour appeler, honteux d’être repris et désespéré de l’accueil rageur qu’on allait faire à son mal. Cependant, comme Véronique passait devant sa porte, vers huit heures, il ne put retenir un cri, qu’un élancement plus profond lui arracha.</p>
@@ -434,7 +434,7 @@
         <p>– Alors, parce qu’on est grand, on ne se dit plus bonsoir ?</p>
         <p>– Mais si ! cria-t-elle, en se jetant à son cou et en le baisant à pleine bouche, avec son ancienne impétuosité de gamine.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>III</head>
         <p>Deux jours plus tard, une grande marée découvrait les roches profondes. Dans le coup de passion qui emportait Lazare au début de chaque entreprise nouvelle, il ne voulut pas attendre davantage, il partit jambes nues, une veste de toile simplement jetée sur son costume de bain ; et Pauline était de l’enquête, en costume de bain elle aussi, chaussée de gros souliers, qu’elle réservait pour la pêche aux crevettes.</p>
         <p>Quand ils furent à un kilomètre des falaises, au milieu du champ des algues ruisselant encore du flot qui se retirait, l’enthousiasme du jeune homme éclata, comme s’il découvrait cette moisson immense d’herbes marines, qu’ils avaient cent fois traversée ensemble.</p>
@@ -644,7 +644,7 @@
         <p>Et, à ce moment même, en bas, Véronique bousculait ses casseroles. Elle était montée, elle avait surpris des chiffres, l’oreille collée contre la porte. Depuis quelques semaines, le sourd travail de sa tendresse pour la jeune fille chassait ses dernières préventions.</p>
         <p>– Ils lui en ont mangé la moitié, ma parole ! grondait-elle furieusement. Non, ce n’est pas propre… Bien sûr qu’elle n’avait pas besoin de tomber chez nous, mais était-ce une raison pour la mettre nue comme un ver ?… Non, moi je suis juste, je finirai par l’aimer, cette enfant !</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>IV</head>
         <p>Ce samedi-là, lorsque Louise, qui venait passer deux mois chez les Chanteau, débarqua sur leur terrasse, elle y trouva la famille réunie. La journée finissait, une journée d’août très chaude, rafraîchie par la brise de mer. Déjà l’abbé Horteur était là, jouant aux dames avec Chanteau ; tandis que madame Chanteau, près d’eux, brodait un mouchoir. Et, à quelques pas, debout, Pauline se tenait devant un banc de pierre, où elle avait fait asseoir quatre galopins du village, deux fillettes et deux petits garçons.</p>
         <p>– Comment ! c’est déjà toi ! s’écria madame Chanteau. Je pliais mon ouvrage, pour aller à ta rencontre jusqu’à la fourche.</p>
@@ -896,7 +896,7 @@
         <p>– Mais je n’ai rien… C’est toi qui te plaignais tout à l’heure.</p>
         <p>La peur de la mort venait de reparaître dans son sommeil, une peur sans cause, comme sortie du néant lui-même, une peur dont le souffle glacé l’avait éveillé d’un grand frisson. Mon Dieu ! il faudrait mourir un jour ! Cela montait, l’étouffait, tandis que Pauline, qui avait reposé la tête sur l’oreiller, le regardait de son air de compassion maternelle.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>V</head>
         <p>Chaque soir, dans la salle à manger, lorsque Véronique avait enlevé la nappe, la même conversation recommençait entre madame Chanteau et Louise, tandis que Chanteau, absorbé par la lecture de son journal, se contentait de répondre d’un mot aux rares questions de sa femme. Durant les quinze jours où Lazare avait cru Pauline en danger, il n’était même pas descendu pour se mettre à table ; maintenant, il dînait en bas, mais dès le dessert, il remontait près de la convalescente ; et il était à peine dans l’escalier, que madame Chanteau reprenait ses plaintes de la veille.</p>
         <p>D’abord, elle se faisait tendre.</p>
@@ -1094,7 +1094,7 @@
         <p>En travers du lit, Chanteau étendait toujours le bras et renversait la tête sur le traversin. Il n’osait plus bouger, il ne devait même pas s’être aperçu de l’absence de la jeune fille, serrant les yeux, ouvrant la bouche, pour crier à l’aise. Aucun des bruits de la maison ne lui parvenait, sa seule affaire était de pousser sa plainte jusqu’au bout de son haleine. Peu à peu, il la prolongeait désespérément, au point d’incommoder la Minouche, dont on avait encore jeté quatre petits le matin, et qui, déjà oublieuse, ronronnait d’un air béat sur un fauteuil.</p>
         <p>Quand Pauline reprit sa place, l’oncle hurlait si fort, que la chatte se leva, les oreilles inquiètes. Elle se mit à le regarder fixement, avec son indignation de sage personne dont on trouble le calme. S’il n’y avait plus moyen de ronronner en paix, cela devenait impossible ! Et elle se retira, la queue en l’air.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>VI</head>
         <p>Lorsque madame Chanteau rentra le soir, quelques minutes avant le dîner, il ne fut plus question de Louise. Elle appela simplement Véronique, pour que celle-ci lui ôtât ses bottines. Le pied gauche la faisait souffrir.</p>
         <p>– Pardi ! ce n’est pas étonnant, murmura la bonne, il est enflé.</p>
@@ -1342,7 +1342,7 @@
         <p>– Non, monsieur, répondit-elle d’une voix étranglée. Mademoiselle m’a dit de rester avec vous.</p>
         <p>La cloche de l’église sonnait toujours, le corps quittait enfin la cour, suivi de Lazare et de Pauline, en noir au grand soleil. Et, de son fauteuil d’infirme, dans l’encadrement de la porte du vestibule laissée ouverte, Chanteau le regardait partir.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>VII</head>
         <p>La complication des cérémonies et certaines affaires à régler retinrent Lazare et Pauline deux jours à Caen. Quand ils revinrent, après une dernière visite au cimetière, le temps avait changé, une bourrasque soufflait sur les côtes. Ils partirent d’Arromanches par une pluie battante, le vent soufflait si fort que la capote du cabriolet menaçait d’être emportée. Pauline se rappelait son premier voyage, lorsque madame Chanteau l’avait amenée de Paris : c’était par une tempête pareille, la pauvre tante lui défendait de se pencher hors de la voiture, et lui rattachait à toute minute un foulard autour du cou. Dans son coin, Lazare songeait aussi, revoyait sa mère sur cette route, impatiente de l’embrasser, à chacun de ses retours : une fois, en décembre, elle avait fait deux lieues à pied, il l’avait trouvée assise sur cette borne. La pluie tombait sans relâche, la jeune fille et son cousin n’échangèrent pas une parole d’Arromanches à Bonneville.</p>
         <p>Cependant, comme on arrivait, la pluie cessa ; mais le vent redoublait de violence, il fallut que le cocher descendit, pour prendre le cheval par la bride. Enfin, la voiture s’arrêtait devant la porte, lorsque le pêcheur Houtelard passa en courant.</p>
@@ -1569,7 +1569,7 @@
         <p>– Il n’y a plus personne, nous sommes trop seuls !</p>
         <p>Des larmes montaient aux yeux de Pauline. Elle s’était penchée pour voir le pauvre Mathieu, sous la lueur vague de la bougie. Sans chercher à consoler Lazare, elle eut un geste découragé, car elle se sentait inutile et impuissante.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>VIII</head>
         <p>L’ennui était au fond des tristesses de Lazare, un ennui lourd, continu, qui sortait de tout comme l’eau trouble d’une source empoisonnée. Il s’ennuyait du repos, du travail, de lui-même plus que des autres encore. Cependant, il s’en prenait à son oisiveté, il finissait par en rougir. N’était-ce pas honteux qu’un homme de son âge perdit ses années de force dans ce trou de Bonneville ? Jusque-là, il avait bien eu des prétextes ; mais rien ne le retenait maintenant, et il se méprisait de rester inutile, à la charge des siens, lorsqu’eux-mêmes avaient à peine de quoi vivre. Il aurait dû leur gagner une fortune, c’était une banqueroute de sa part, car il se l’était juré, autrefois. Certes, les projets d’avenir, les grandes entreprises, la richesse conquise en un coup de génie, ne lui manquaient toujours pas. Seulement, quand il sortait du rêve, il ne trouvait plus le courage de se mettre à l’action.</p>
         <p>– Ça ne peut pas durer, disait-il souvent à Pauline, il faut que je travaille… J’ai envie de fonder un journal à Caen.</p>
@@ -1757,7 +1757,7 @@
         <p>Le docteur, qui était là, partit en levant les bras au ciel.</p>
         <p>– Elle est impossible, cette petite ! Et quel guêpier, là-dedans ! Jamais elle n’en sortira.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>IX</head>
         <p>Et les jours s’étaient remis à couler, dans la maison de Bonneville. Après un hiver très froid, il y avait eu un printemps pluvieux, la mer battue par les averses ressemblait à un lac de boue ; puis, l’été tardif s’était prolongé jusqu’au milieu de l’automne, avec de lourds soleils qui endormaient l’immensité bleue sous des chaleurs accablantes ; puis, l’hiver avait reparu, et un printemps, et un été encore, s’en allant minute à minute, du même pas, dans la marche cadencée des heures.</p>
         <p>Pauline, comme si son cœur se fût réglé sur ce mouvement d’horloge, retrouvait son grand calme. Ses souffrances s’engourdissaient, bercées par les jours réguliers, promenées dans des occupations qui revenaient toujours les mêmes. Elle descendait le matin, embrassait son oncle, avait avec la bonne la conversation de la veille, s’asseyait deux fois à table, cousait l’après-midi, se couchait tôt le soir ; et, le lendemain la journée recommençait, sans que jamais un événement inattendu en vint rompre la monotonie. Chanteau, de plus en plus noué par la goutte, les jambes gonflées, les mains difformes, restait muet quand il ne hurlait pas, enfoncé dans la béatitude de ne pas souffrir. Véronique, qui semblait avoir perdu sa langue, tombait à une maussaderie sombre. Seuls, les dîners du samedi dérangeaient cette paix, Cazenove et l’abbé Horteur dînaient exactement, on entendait des voix jusqu’à dix heures, puis les sabots du prêtre s’en allaient sur le pavé de la cour, tandis que le cabriolet du médecin partait, avec le trot pesant du vieux cheval. La gaieté même de Pauline s’était faite tranquille, cette gaieté vaillante qu’elle avait gardée au milieu de ses tourments. Son rire sonore n’emplissait plus l’escalier et les pièces ; mais elle demeurait l’activité et la bonté de la maison, elle y apportait chaque matin un nouveau courage à vivre. Au bout d’une année, son cœur dormait, elle pouvait croire que les heures, maintenant, couleraient de la sorte, uniformes et douces, sans que rien réveillât en elle la douleur assoupie.</p>
@@ -1927,7 +1927,7 @@
         <p>– Mais non, pas adieu, dit-elle en s’efforçant de rire. Au revoir, puisque je ne pars que lundi.</p>
         <p>Ils se regardaient, leurs yeux se troublèrent, et ils tombèrent aux bras l’un de l’autre, leurs lèvres s’unirent violemment dans un dernier baiser.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>X</head>
         <p>Le lendemain, au premier déjeuner, comme tous s’attablaient devant les bols de café au lait, ils s’étonnèrent de ne pas voir descendre Louise. La bonne allait monter frapper à la porte de la chambre, lorsqu’elle parut enfin. Elle était très pâle et marchait difficilement.</p>
         <p>– Qu’as-tu donc ? demanda Lazare inquiet.</p>
@@ -2190,7 +2190,7 @@
         <p>Elle resta un instant silencieuse. Ses grands yeux songeurs se levaient, semblaient regarder au loin, dans l’avenir.</p>
         <p>– Non, répondit-elle. Je dois attendre.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>XI</head>
         <p>Après un mois de mai abominable, les premiers jours de juin furent très chauds. Le vent d’ouest soufflait depuis trois semaines, des tempêtes avaient ravagé les côtes, éventré des falaises, englouti des barques, tué du monde ; et ce grand ciel bleu, cette mer de satin, ces journées tièdes et claires qui luisaient maintenant, prenaient une douceur infinie.</p>
         <p>Par cette après-midi superbe, Pauline s’était décidée à rouler sur la terrasse le fauteuil de Chanteau, et à coucher près de lui, au milieu d’une couverture de laine rouge, le petit Paul, âgé déjà de dix-huit mois. Elle était sa marraine, elle gâtait l’enfant autant que le vieillard.</p>

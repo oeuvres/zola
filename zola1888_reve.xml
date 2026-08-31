@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
-<?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../teinte/tei2html.xsl"?>
+<?xml-model href="https://oeuvres.github.io/teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2016-02-19T11:53:15+01:00-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
@@ -29,7 +29,7 @@
   </teiHeader>
   <text>
     <body>
-      <div>
+      <div type="chapter">
         <head>I</head>
         <p>Pendant le rude hiver de 1860, l’Oise gela, de grandes neiges couvrirent les plaines de la basse Picardie ; et il en vint surtout une bourrasque du nord-est, qui ensevelit presque Beaumont, le jour de la Noël. La neige, s’étant mise à tomber dès le matin, redoubla vers le soir, s’amassa durant toute la nuit. Dans la ville haute, rue des Orfèvres, au bout de laquelle se trouve comme enclavée la façade nord du transept de la cathédrale, elle s’engouffrait, poussée par le vent, et allait battre la porte Sainte-Agnès, l’antique porte romane, presque déjà gothique, très ornée de sculptures sous la nudité du pignon. Le lendemain, à l’aube, il y en eut là près de trois pieds.</p>
         <p>La rue dormait encore, emparessée par la fête de la veille. Six heures sonnèrent. Dans les ténèbres, que bleuissait la chute lente et entêtée des flocons, seule une forme indécise vivait, une fillette de neuf ans, qui, réfugiée sous les voussures de la porte, y avait passé la nuit à grelotter, en s’abritant de son mieux. Elle était vêtue de loques, la tête enveloppée d’un lambeau de foulard, les pieds nus dans de gros souliers d’homme. Sans doute elle n’avait échoué là qu’après avoir longtemps battu la ville, car elle y était tombée de lassitude. Pour elle, c’était le bout de la terre, plus personne ni plus rien, l’abandon dernier, la faim qui ronge, le froid qui tue ; et, dans sa faiblesse, étouffée par le poids lourd de son cœur, elle cessait de lutter, il ne lui restait que le recul physique, l’instinct de changer de place, de s’enfoncer dans ces vieilles pierres, lorsqu’une rafale faisait tourbillonner la neige.</p>
@@ -94,7 +94,7 @@
         <p>Ce matin-là, en entrant à l’église, Angélique se trouva de nouveau sous la porte Sainte-Agnès. Un faux dégel s’était produit dans la semaine, puis le froid avait recommencé, si rude, que la neige des sculptures, à demi fondue, venait de se figer en une floraison de grappes et d’aiguilles. C’était maintenant toute une glace, des robes transparentes, aux dentelles de verre, qui habillaient les vierges. Dorothée tenait un flambeau dont la coulure limpide lui tombait des mains ; Cécile portait une couronne d’argent d’où ruisselaient des perles vives ; Agathe, sur sa gorge mordue par les tenailles, était cuirassée d’une armure de cristal. Et les scènes du tympan, les petites vierges des voussures semblaient être ainsi, depuis des siècles, derrière les vitres et les gemmes d’une châsse géante. Agnès, elle, laissait traîner un manteau de cour, filé de lumière, brodé d’étoiles. Son agneau avait une toison de diamants, sa palme était devenue couleur de ciel. Toute la porte resplendissait, dans la pureté du grand froid.</p>
         <p>Angélique se souvint de la nuit qu’elle avait passée là, sous la protection des vierges. Elle leva la tête et leur sourit.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>II</head>
         <p>Beaumont est fait de deux villes complètement séparées et distinctes : Beaumont-l’Église, sur la hauteur, avec sa vieille cathédrale du douzième siècle, son évêché qui date seulement du dix-septième, ses mille âmes à peine, serrées, étouffées au fond de ses rues étroites ; et Beaumont-la-Ville, en bas du coteau, sur le bord du Ligneul, un ancien faubourg que la prospérité de ses fabriques de dentelles et de batistes a enrichi, élargi, au point qu’il compte près de dix mille habitants, des places spacieuses, une jolie sous-préfecture, de goût moderne. Les deux cantons, le canton nord et le canton sud, n’ont guère ainsi, entre eux, que des rapports administratifs. Bien qu’à une trentaine de lieues de Paris, où l’on va en deux heures, Beaumont-l’Église semble muré encore dans ses anciens remparts, dont il ne reste pourtant que trois portes. Une population stationnaire, spéciale, y vit de l’existence que les aïeux y ont menée de père en fils, depuis cinq cents ans.</p>
         <p>La cathédrale explique tout, a tout enfanté et conserve tout. Elle est la mère, la reine, énorme au milieu du petit tas des maisons basses, pareilles à une couvée abritée frileusement sous ses ailes de pierre. On n’y habite que pour elle et par elle ; les industries ne travaillent, les boutiques ne vendent que pour la nourrir, la vêtir, l’entretenir, elle et son clergé ; et, si l’on rencontre quelques bourgeois, c’est qu’ils y sont les derniers fidèles des foules disparues. Elle bat au centre, chaque rue est une de ses veines, la ville n’a d’autre souffle que le sien. De là, cette âme d’un autre âge, cet engourdissement religieux dans le passé, cette cité cloîtrée qui l’entoure, odorante d’un vieux parfum de paix et de foi.</p>
@@ -126,7 +126,7 @@
         <p>– Mon enfant, ta mère est morte.</p>
         <p>Angélique, pleurante, les embrassa avec passion. Jamais il n’en fut reparlé. Elle était leur fille.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>III</head>
         <p>Cette année-là, le lundi de la Pentecôte, les Hubert avaient mené Angélique déjeuner aux ruines du château d’Hautecœur, qui domine le Ligneul, à deux lieues en aval de Beaumont ; et, le lendemain, après toute cette journée de plein air, de courses et de rires, lorsque la vieille horloge de l’atelier sonna sept heures, la jeune fille dormait encore.</p>
         <p>Hubertine dut monter frapper à la porte.</p>
@@ -239,7 +239,7 @@
         <p>Alors, dans ce rayonnement tiède de printemps, Angélique regarda le grand lis symbolique qu’elle avait terminé. Puis, elle répondit de son air d’allégresse confiante :</p>
         <p>– Mais c’est Jésus que je veux !</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>IV</head>
         <p>Malgré sa gaieté vivace, Angélique aimait la solitude ; et c’était avec la joie d’une véritable récréation qu’elle se retrouvait seule dans sa chambre, le matin et le soir : elle s’y abandonnait, elle y goûtait l’escapade de ses songeries. Parfois même, au cours de la journée, lorsqu’elle pouvait y courir un instant, elle en était heureuse comme d’une fuite, en pleine liberté.</p>
         <p>La chambre, très vaste, tenait toute une moitié du comble, dont le grenier occupait le reste. Elle était entièrement blanchie à la chaux, les murs, les solives, jusqu’aux chevrons apparents des parties mansardées ; et, dans cette nudité blanche, les vieux meubles de chêne semblaient noirs. Lors des embellissements du salon et de la chambre à coucher, en bas, on avait monté là l’antique mobilier, datant de toutes les époques : un coffre de la Renaissance, une table et des chaises Louis XIII, un énorme lit Louis XIV, une très belle armoire Louis XV. Seuls, le poêle, en faïence blanche, et la table de toilette, une petite table recouverte de toile cirée, juraient, au milieu de ces vieilleries vénérables. Drapé dans une ancienne perse rose, à bouquets de bruyères, si pâlie qu’elle était devenue d’un rose éteint, soupçonné à peine, l’énorme lit surtout gardait la majesté de son grand âge.</p>
@@ -264,7 +264,7 @@
         <p>Deux soirées s’étaient passées encore, lorsque, la troisième nuit, en venant s’accouder, Angélique reçut au cœur un choc violent. Là, dans la clarté vive, elle l’aperçut debout, tourné vers elle. Son ombre, ainsi que celle des arbres, s’était repliée sous ses pieds, avait disparu. Il n’y avait plus que lui, très clair. À cette distance, elle le voyait comme en plein jour, âgé de vingt ans, blond, grand et mince. Il ressemblait au saint Georges, à un Jésus superbe, avec ses cheveux bouclés, sa barbe légère, son nez droit, un peu fort, ses yeux noirs, d’une douceur hautaine. Et elle le reconnaissait parfaitement : jamais elle ne l’avait vu autre, c’était lui, c’était ainsi qu’elle l’attendait. Le prodige s’achevait enfin, la lente création de l’invisible aboutissait à cette apparition vivante. Il sortait de l’inconnu, du frisson des choses, des voix murmurantes, des jeux mouvants de la nuit, de tout ce qui l’avait enveloppée, jusqu’à la faire défaillir. Aussi le voyait-elle à deux pieds du sol, dans le surnaturel de sa venue, tandis que le miracle l’entourait de toutes parts, flottant sur le lac mystérieux de la lune. Il gardait pour escorte le peuple entier de la Légende, les saints dont les bâtons fleurissent, les saintes dont les blessures laissent pleuvoir du lait. Et le vol blanc des vierges pâlissait les étoiles.</p>
         <p>Angélique le regardait toujours. Il leva les deux bras, les tendit, grands ouverts. Elle n’avait pas peur, elle lui souriait.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>V</head>
         <p>C’était une affaire, tous les trois mois, lorsque Hubertine coulait la lessive. On louait une femme, la mère Gabet ; pendant quatre jours, les broderies en étaient oubliées ; et Angélique elle-même s’en mêlait, se faisait ensuite une récréation du savonnage et du rinçage, dans les eaux claires de la Chevrotte. Au sortir de la cendre, on brouettait le linge par la petite porte de communication. On vivait les journées dans le Clos-Marie, en plein air, en plein soleil.</p>
         <p>– Mère, cette fois, je lave, ça m’amuse tant !</p>
@@ -364,7 +364,7 @@
         <p>– Je vous aime.</p>
         <p>Et elle se remit à fuir, dans sa peur de l’amant. La Chevrotte ne l’arrêta plus, elle y entra comme les biches poursuivies, ses petits pieds blancs y coururent parmi les cailloux, sous le frisson de l’eau glacée. La porte du jardin se referma, ils disparurent.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>VI</head>
         <p>Pendant deux jours, Angélique fut accablée de remords. Dès qu’elle était seule, elle pleurait, comme si elle eût commis une faute. Et la question, d’une obscurité alarmante, renaissait toujours : avait-elle péché avec ce jeune homme ? était-elle perdue, ainsi que ces vilaines femmes de la Légende, qui cèdent au diable ? Les mots, murmurés si bas : « Je vous aime », retentissaient d’un tel fracas à son oreille, qu’ils venaient pour sûr de quelque terrible puissance, cachée au fond de l’invisible. Mais elle ne savait pas, elle ne pouvait savoir, dans l’ignorance et la solitude où elle avait grandi.</p>
         <p>Avait-elle péché avec ce jeune homme ? Et elle tâchait de bien se rappeler les faits, elle discutait les scrupules de son innocence. Qu’était-ce donc que le péché ? Suffisait-il de se voir, de causer, de mentir ensuite aux parents ? Cela ne devait pas être tout le mal. Alors, pourquoi suffoquait-elle ainsi ? pourquoi, si elle n’était pas coupable, se sentait-elle devenir autre, agitée d’une âme nouvelle ? Peut-être le péché poussait-il là, dans ce malaise sourd dont elle défaillait. Elle avait plein le cœur de choses vagues, indéterminées, toute une confusion de paroles et d’actes à venir, dont elle s’effarait, avant de comprendre. Un flot de sang lui empourprait les joues, elle entendait éclater les mots terrifiants : « Je vous aime » ; et elle ne raisonnait plus, elle se remettait à sangloter, doutant des faits, craignant la faute au-delà, dans ce qui n’avait pas de nom et pas de forme.</p>
@@ -463,7 +463,7 @@
         <p>– C’est bon, tu ne le verras plus. Seulement, rien n’empêche d’être polie.</p>
         <p>Angélique, sous un prétexte, n’eut que le temps de monter dans sa chambre. Elle y éclata en larmes. Ah ! qu’elle était heureuse et qu’elle souffrait ! Son pauvre cher amour, comme il avait dû s’en aller triste ! Mais c’était juré aux saintes, elle l’aimerait à en mourir, et jamais il ne le saurait.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>VII</head>
         <p>Le soir du même jour, tout de suite en sortant de table, Angélique se plaignit d’un grand malaise et remonta dans sa chambre. Ses émotions de la matinée, ses luttes contre elle-même, l’avaient anéantie. Elle se coucha immédiatement, elle éclata de nouveau en larmes, la tête enfoncée sous le drap, avec le besoin désespéré de disparaître, de n’être plus.</p>
         <p>Les heures s’écoulèrent, la nuit s’était faite, une ardente nuit de juillet, dont la paix lourde entrait par la fenêtre, laissée grande ouverte. Dans le ciel noir luisait un fourmillement d’étoiles. Il devait être près de onze heures, la lune n’allait se lever que vers minuit, à son dernier quartier, amincie déjà.</p>
@@ -537,7 +537,7 @@
         <p>Ce fut tout, il était descendu déjà par les charpentes, avec une agilité souple, tandis que, demeurée sur le balcon, accoudée, elle le suivait des yeux. Elle avait pris le bouquet de violettes, elle le respirait pour dissiper sa fièvre. Et, quand il traversa le Clos-Marie et qu’il leva la tête, il l’aperçut qui baisait les fleurs.</p>
         <p>Félicien avait à peine disparu derrière les saules, qu’Angélique s’inquiéta, en entendant, au-dessous d’elle, ouvrir la porte de la maison. Quatre heures sonnaient, on ne s’éveillait jamais que deux heures plus tard. Sa surprise augmenta, lorsqu’elle reconnut Hubertine ; car, d’habitude, Hubert descendait le premier. Elle la vit se promener lentement par les allées de l’étroit jardin, les bras abandonnés, la face pâle dans l’air matinal, comme si un étouffement lui eût fait quitter si tôt sa chambre, après une nuit brûlante d’insomnie. Et Hubertine était très belle encore, vêtue d’un simple peignoir, avec ses cheveux noués à la hâte ; et elle semblait très lasse, heureuse et désespérée.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>VIII</head>
         <p>Le lendemain, en s’éveillant d’un sommeil de huit heures, d’un de ces doux et profonds sommeils qui reposent des grandes félicités, Angélique courut à sa fenêtre. Le ciel était très pur, le temps chaud continuait, après un gros orage qui l’avait inquiétée, la veille ; et elle cria joyeusement à Hubert, en train d’ouvrir les volets, au-dessous d’elle :</p>
         <p>– Père, père ! du soleil !… Ah ! que je suis contente, la procession sera belle !</p>
@@ -641,7 +641,7 @@
         <p>– Ah ! ma pauvre enfant, soupira Hubertine avec désespoir.</p>
         <p>Mais les chapelains et les acolytes s’étaient rangés à droite et à gauche, et le premier diacre, ayant pris le Saint-Sacrement des mains de Monseigneur, le posa sur l’autel. C’était la bénédiction finale, le <foreign xml:lang="la">Tantum ergo</foreign> mugi par les chantres, l’encens des navettes fumant dans les encensoirs, le grand silence brusque de l’oraison. Et, au milieu de l’église ardente, débordante de clergé et de peuple, sous les voûtes élancées, Monseigneur remonta à l’autel, reprit des deux mains le grand soleil d’or, que par trois fois il agita en l’air, d’un lent signe de croix.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>IX</head>
         <p>Le soir même, en rentrant de l’église, Angélique pensait : « Je le verrai tout à l’heure : il sera dans le Clos-Marie, et je descendrai le retrouver. » Leurs yeux s’étaient donné ce rendez-vous.</p>
         <p>On ne dîna qu’à huit heures, dans la cuisine, selon l’habitude. Hubert parlait seul, excité par cette journée de fête. Sérieuse, Hubertine répondait à peine, ne quittant pas du regard la jeune fille, qui mangeait d’un gros appétit, mais inconsciente, sans paraître savoir qu’elle portait la fourchette à sa bouche, toute à son rêve. Et Hubertine lisait clairement en elle, voyait se former et se suivre une à une les pensées, sous ce front candide, comme sous le cristal d’une eau pure.</p>
@@ -772,7 +772,7 @@
         <p>Et Angélique, alors, les regards tombés machinalement sur son églantier, finit par l’apercevoir, avec ses fleurs chétives. Elle eut un rire triste.</p>
         <p>– Vous aviez raison, mère, il n’est pas près de porter des roses.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>X</head>
         <p>Le matin, à sept heures, comme de coutume, Angélique était au travail ; et les jours se suivirent, et chaque matin elle se remit, très calme, à la chasuble quittée la veille. Rien ne semblait changé, elle tenait strictement sa parole, se cloîtrait, sans chercher à revoir Félicien. Cela même ne paraissait pas l’assombrir, elle gardait son gai visage de jeunesse, souriant à Hubertine, lorsqu’elle la surprenait, étonnée, les yeux sur elle. Pourtant, dans cette volonté de silence, elle ne songeait qu’à lui, la journée entière. Son espoir demeurait invincible, elle était certaine que les choses se réaliseraient, malgré tout. Et c’était cette certitude qui lui donnait son grand air de courage, si droit et si fier.</p>
         <p>Hubert, parfois, la grondait.</p>
@@ -835,7 +835,7 @@
         <p>Et, sans même faire ses dévotions, ce jour-là, il partit. Ses pas graves se perdirent derrière les piliers de l’abside.</p>
         <p>Tombée sur les dalles, Angélique pleura longtemps à gros sanglots, dans la grande paix vide de l’église.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>XI</head>
         <p>Dès le soir, dans la cuisine, en sortant de table, Angélique se confessa aux Hubert, dit sa démarche près de l’évêque et le refus de celui-ci. Elle était toute pâle, mais très calme.</p>
         <p>Hubert fut bouleversé. Eh quoi ! déjà, sa chère enfant souffrait ! Elle aussi était frappée au cœur. Il en avait des larmes plein les yeux, dans sa parenté de passion avec elle, cette fièvre de l’au-delà qui les emportait si aisément ensemble, au moindre souffle.</p>
@@ -919,7 +919,7 @@
         <p>– Ah ! je suis bien sûre d’être sage, à présent, et de ne pas me sauver.</p>
         <p>Hubert se hâta de descendre, suffoqué, craignant d’éclater en larmes.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>XII</head>
         <p>Cette nuit-là, Angélique ne put dormir. Une insomnie la tenait les paupières ardentes, dans l’extrême faiblesse où elle était ; et, comme les Hubert s’étaient couchés et que minuit allait sonner bientôt, elle préféra se relever, malgré l’effort immense, prise de la peur de mourir, si elle restait au lit davantage.</p>
         <p>Elle étouffait, elle passa un peignoir, se traîna jusqu’à la fenêtre, qu’elle ouvrit toute grande. L’hiver était pluvieux, d’une douceur humide. Puis, elle s’abandonna dans son fauteuil, après avoir, devant elle, sur la petite table, relevé la mèche de la lampe, qu’on laissait allumée la nuit entière. Là, près du volume de <hi rend="i">la Légende dorée</hi>, était le bouquet de roses trémières et d’hortensias, qu’elle copiait. Et, pour se reprendre à la vie, elle eut une fantaisie de travail, attira son métier, fit quelques points, de ses mains égarées. La soie rouge d’une rose saignait entre ses doigts blancs, il semblait que ce fût le sang de ses veines qui achevait de couler, goutte à goutte.</p>
@@ -1022,7 +1022,7 @@
         <p>Un instant encore, il la regarda, si blanche, si réduite, d’une légèreté de plume qu’un souffle emporte ; et il eut un geste de résolution furieuse, il disparut dans la nuit.</p>
         <p>Elle, appuyée au dossier du fauteuil, quand il ne fut plus là, tendit désespérément les mains vers les ténèbres. De gros sanglots agitaient son corps, une sueur d’agonie couvrait sa face. Mon Dieu ! c’était la fin, elle ne le verrait plus. Tout son mal l’avait reprise, ses jambes brisées se dérobaient sous elle. Ce fut à grand-peine qu’elle put regagner son lit, où elle tomba victorieuse et sans souffle. Le lendemain matin, on l’y trouva mourante. La lampe venait de s’éteindre d’elle-même, à l’aube, dans la blancheur triomphale de la chambre.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>XIII</head>
         <p>Angélique allait mourir. Il était dix heures, une claire matinée de la fin de l’hiver, un temps vif, avec un ciel blanc, tout égayé de soleil. Dans le grand lit royal, drapé d’une ancienne perse rose, elle ne bougeait plus, sans connaissance depuis la veille. Allongée sur le dos, ses mains d’ivoire abandonnées sur le drap, elle n’avait plus ouvert les yeux ; et son fin profil s’était aminci, sous le nimbe d’or de ses cheveux ; et on l’aurait crue morte déjà, sans le tout petit souffle de ses lèvres.</p>
         <p>La veille, Angélique s’était confessée et avait communié, se sentant très mal. Le bon abbé Cornille, vers trois heures, lui avait apporté le saint viatique. Puis, dans la soirée, comme la mort la glaçait peu à peu, un grand désir lui était venu de l’extrême-onction, la médecine céleste, instituée pour la guérison de l’âme et du corps. Avant de perdre connaissance, sa dernière parole, un murmure à peine, recueilli par Hubertine, avait bégayé ce désir des saintes huiles, oh ! tout de suite, pour qu’il fût temps encore. Mais la nuit s’avançait, on avait attendu le jour, et l’abbé, averti, allait enfin arriver.</p>
@@ -1101,7 +1101,7 @@
         <p>Monseigneur, qui avait retrouvé sa hauteur sereine, lui posa de nouveau sur la bouche le crucifix, qu’elle baisa cette fois, en servante soumise. Puis, d’un grand geste, par toute la chambre, au-dessus de toutes les têtes, il donna les bénédictions dernières, pendant que les Hubert et l’abbé Cornille pleuraient.</p>
         <p>Félicien avait pris la main d’Angélique. Et, dans l’autre petite main, le cierge d’innocence brûlait, très haut.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>XIV</head>
         <p>Le mariage fut fixé aux premiers jours de mars. Mais Angélique restait très faible, malgré la joie qui rayonnait de toute sa personne. Elle avait d’abord voulu redescendre à l’atelier, dès la première semaine de sa convalescence, s’entêtant à finir le panneau de broderie en bas-relief, pour le siège de Monseigneur : c’était sa dernière tâche d’ouvrière, disait-elle gaiement, on ne lâchait pas une commande au beau milieu. Puis, épuisée par cet effort, elle avait dû de nouveau garder la chambre. Elle y vivait souriante, sans retrouver la santé pleine d’autrefois, toujours blanche et immatérielle comme sous les saintes huiles, allant et venant d’un petit pas de vision, se reposant, songeuse, pendant des heures, d’avoir fait quelque longue course, de sa table à sa fenêtre. Et l’on recula le mariage, on décida qu’on attendrait son complet rétablissement, qui ne pouvait tarder, avec des soins.</p>
         <p>Chaque après-midi, Félicien montait la voir. Hubert et Hubertine étaient là, on passait ensemble d’adorables heures, on refaisait les mêmes projets, continuellement. Assise, elle se montrait d’une vivacité rieuse, la première à parler des jours si remplis de leur prochaine existence, les voyages, Hautecœur à restaurer, toutes les félicités à connaître. On l’aurait dite bien sauvée alors, reprenant des forces, dans le printemps hâtif qui entrait, chaque jour plus tiède, par la fenêtre ouverte. Et elle ne retombait aux gravités de ses songeries que lorsqu’elle était seule, ne craignant pas d’être vue. La nuit, des voix l’avaient effleurée ; puis, c’était un appel de la terre, à son entour ; en elle aussi, la clarté se faisait, elle comprenait que le miracle continuait uniquement pour la réalisation de son rêve. N’était-elle pas morte déjà, n’existant plus parmi les apparences que grâce à un répit des choses ? Cela, aux heures de solitude, la berçait avec une douceur infinie, sans regret à l’idée d’être emportée dans sa joie, certaine toujours d’aller jusqu’au bout du bonheur. Le mal attendrait. Sa grande allégresse en devenait simplement sérieuse, elle s’abandonnait, inerte, ne sentait plus son corps, volait aux pures délices ; et il fallait qu’elle entendît les Hubert rouvrir la porte, ou que Félicien entrât la voir, pour qu’elle se redressât, feignant la santé revenue, causant avec des rires de leurs années de ménage, très loin, dans l’avenir.</p>

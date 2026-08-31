@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
-<?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../teinte/tei2html.xsl"?>
+<?xml-model href="https://oeuvres.github.io/teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -29,7 +29,7 @@
   </teiHeader>
   <text>
     <front>
-      <div>
+      <div type="chapter">
         <head>Préface de l’auteur</head>
         <p>Les <hi rend="i">Rougon-Macquart</hi> doivent se composer d’une vingtaine de romans. Depuis 1869, le plan général est arrêté, et je le suis avec une rigueur extrême. L’<hi rend="i">Assommoir</hi> est venu à son heure, je l’ai écrit, comme j’écrirai les autres, sans me déranger une seconde de ma ligne droite. C’est ce qui fait ma force. J’ai un but auquel je vais.</p>
         <p>Lorsque L’<hi rend="i">Assommoir</hi> a paru dans un journal, il a été attaqué avec une brutalité sans exemple, dénoncé, chargé de tous les crimes. Est-il bien nécessaire d’expliquer ici, en quelques lignes, mes intentions d’écrivain ? J’ai voulu peindre la déchéance fatale d’une famille ouvrière, dans le milieu empesté de nos faubourgs. Au bout de l’ivrognerie et de la fainéantise, il y a le relâchement des liens de la famille, les ordures de la promiscuité, l’oubli progressif des sentiments honnêtes, puis comme dénouement la honte et la mort. C’est la morale en action, simplement.</p>
@@ -41,7 +41,7 @@
       
     </front>
     <body>
-      <div>
+      <div type="chapter">
         <head>I
 <lb/></head>
         <p>Gervaise avait attendu Lantier jusqu’à deux heures du matin. Puis, toute frissonnante d’être restée en camisole à l’air vif de la fenêtre, elle s’était assoupie, jetée en travers du lit, fiévreuse, les joues trempées de larmes. Depuis huit jours, au sortir du <hi rend="i">Veau à deux têtes</hi>, où ils mangeaient, il l’envoyait se coucher avec les enfants et ne reparaissait que tard dans la nuit, en racontant qu’il cherchait du travail. Ce soir-là, pendant qu’elle guettait son retour, elle croyait l’avoir vu entrer au bal du Grand-Balcon, dont les dix fenêtres flambantes éclairaient d’une nappe d’incendie la coulée noire des boulevards extérieurs ; et, derrière lui, elle avait aperçu la petite Adèle, une brunisseuse qui dînait à leur restaurant, marchant à cinq ou six pas, les mains ballantes, comme si elle venait de lui quitter le bras pour ne pas passer ensemble sous la clarté crue des globes de la porte.</p>
@@ -271,7 +271,7 @@
         <p>En haut, la chambre était nue, pleine de soleil, la fenêtre ouverte. Ce coup de soleil, cette nappe de poussière d’or dansante, rendait lamentables le plafond noir, les murs au papier arraché. Il n’y avait plus, à un clou de la cheminée, qu’un petit fichu de femme, tordu comme une ficelle. Le lit des enfants, tiré au milieu de la pièce, découvrait la commode, dont les tiroirs laissés ouverts montraient leurs flancs vides. Lantier s’était lavé et avait achevé la pommade, deux sous de pommade dans une carte à jouer ; l’eau grasse de ses mains emplissait la cuvette. Et il n’avait rien oublié, le coin occupé jusque-là par la malle paraissait à Gervaise faire un trou immense. Elle ne retrouva même pas le petit miroir rond, accroché à l’espagnolette. Alors, elle eut un pressentiment, elle regarda sur la cheminée : Lantier avait emporté les reconnaissances, le paquet rose tendre n’était plus là, entre les flambeaux de zinc dépareillés.</p>
         <p>Elle pendit son linge au dossier d’une chaise, elle demeura debout, tournant, examinant les meubles, frappée d’une telle stupeur, que ses larmes ne coulaient plus. Il lui restait un sou sur les quatre sous gardés pour le lavoir. Puis, entendant rire à la fenêtre Étienne et Claude, déjà consolés, elle s’approcha, prit leurs têtes sous ses bras, s’oublia un instant devant cette chaussée grise, où elle avait vu, le matin, s’éveiller le peuple ouvrier, le travail géant de Paris. À cette heure, le pavé échauffé par les besognes du jour allumait une réverbération ardente au-dessus de la ville, derrière le mur de l’octroi. C’était sur ce pavé, dans cet air de fournaise, qu’on la jetait toute seule avec les petits ; et elle enfila d’un regard les boulevards extérieurs, à droite, à gauche, s’arrêtant aux deux bouts, prise d’une épouvante sourde, comme si sa vie, désormais, allait tenir là, entre un abattoir et un hôpital.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>II
 <lb/></head>
         <p>Trois semaines plus tard, vers onze heures et demie, un jour de beau soleil, Gervaise et Coupeau, l’ouvrier zingueur, mangeaient ensemble une prune, à l’Assommoir du père Colombe. Coupeau, qui fumait une cigarette sur le trottoir, l’avait forcée à entrer, comme elle traversait la rue, revenant de porter du linge ; et son grand panier carré de blanchisseuse était par terre, près d’elle, derrière la petite table de zinc.</p>
@@ -438,7 +438,7 @@
         <p>– Prenez garde ! cria Coupeau.</p>
         <p>Et elle dut, pour sortir, sauter par-dessus une grande mare, qui avait coulé de la teinturerie. Ce jour-là, la mare était bleue, d’un azur profond de ciel d’été, où la petite lampe de nuit du concierge allumait des étoiles.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>III
 <lb/></head>
         <p>Gervaise ne voulait pas de noce. À quoi bon dépenser de l’argent ? Puis, elle restait un peu honteuse ; il lui semblait inutile d’étaler le mariage devant tout le quartier. Mais Coupeau se récriait : on ne pouvait pas se marier comme ça, sans manger un morceau ensemble. Lui, se battait joliment l’œil du quartier ! Oh ! quelque chose de tout simple, un petit tour de balade l’après-midi, en attendant d’aller tordre le cou à un lapin, au premier gargot venu. Et pas de musique au dessert, bien sûr, pas de clarinette pour secouer le panier aux crottes des dames. Histoire de trinquer seulement, avant de revenir faire dodo chacun chez soi.</p>
@@ -601,7 +601,7 @@
         <p>Et, comme les Lorilleux se décidaient à l’emmener, il se retourna, il balbutia une dernière phrase, entre deux hoquets :</p>
         <p>– Quand on est mort… écoutez ça… quand on est mort, c’est pour longtemps.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>IV
 <lb/></head>
         <p>Ce furent quatre années de dur travail. Dans le quartier, Gervaise et Coupeau étaient un bon ménage, vivant à l’écart, sans batteries, avec un tour de promenade régulier le dimanche, du côté de Saint-Ouen. La femme faisait des journées de douze heures chez madame Fauconnier, et trouvait le moyen de tenir son chez elle propre comme un sou, de donner la pâtée à tout son monde, matin et soir. L’homme ne se soûlait pas, rapportait ses quinzaines, fumait une pipe à sa fenêtre avant de se coucher, pour prendre l’air. On les citait, à cause de leur gentillesse. Et, comme ils gagnaient à eux deux près de neuf francs par jour, on calculait qu’ils devaient mettre de côté pas mal d’argent.</p>
@@ -725,7 +725,7 @@
         <p>– Dis donc ! le forgeron te fait de l’œil, s’écria Coupeau en riant, quand il apprit l’histoire. Oh ! je suis bien tranquille, il est trop godiche… On le lui rendra, son argent. Mais, vrai, s’il avait affaire à de la fripouille, il serait joliment jobardé.</p>
         <p>Dès le lendemain, les Coupeau louèrent la boutique. Gervaise courut toute la journée, de la rue Neuve à la rue de la Goutte-d’Or. Dans le quartier, à la voir passer ainsi, légère, ravie au point de ne plus boiter, on racontait qu’elle avait dû se laisser faire une opération.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>V
 <lb/></head>
         <p>Justement, les Boche, depuis le terme d’avril, avaient quitté la rue des Poissonniers et tenaient la loge de la grande maison, rue de la Goutte-d’Or. Comme ça se rencontrait, tout de même ! Un des ennuis de Gervaise, qui avait vécu si tranquille sans concierge dans son trou de la rue Neuve, était de retomber sous la sujétion de quelque mauvaise bête, avec laquelle il faudrait se disputer pour un peu d’eau répandue, ou pour la porte refermée trop fort, le soir. Les concierges sont une si sale espèce ! Mais, avec les Boche, ce serait un plaisir. On se connaissait, on s’entendrait toujours. Enfin, ça se passerait en famille.</p>
@@ -858,7 +858,7 @@
         <p>Dès le lendemain, elle prit maman Coupeau chez elle. Elle mit son lit dans le grand cabinet où couchait Nana, et qui recevait le jour par une lucarne ronde, près du plafond. Le déménagement ne fut pas long, car maman Coupeau, pour tout mobilier, avait ce lit, une vieille armoire de noyer qu’on plaça dans la chambre au linge sale, une table et deux chaises ; on vendit la table, on fit rempailler les deux chaises. Et la vieille femme, le soir même de son installation, donnait un coup de balai, lavait la vaisselle, enfin se rendait utile, bien contente d’être tirée d’affaire. Les Lorilleux rageaient à crever, d’autant plus que madame Lerat venait de se remettre avec les Coupeau. Un beau jour, les deux sœurs, la fleuriste et la chaîniste, avaient échangé des torgnoles, au sujet de Gervaise ; la première s’était risquée à approuver la conduite de celle-ci, vis-à-vis de leur mère ; puis, par un besoin de taquinerie, voyant l’autre exaspérée, elle en était arrivée à trouver les yeux de la blanchisseuse magnifiques, des yeux auxquels on aurait allumé des bouts de papier ; et là-dessus toutes deux, après s’être giflées, avaient juré de ne plus se revoir. Maintenant, madame Lerat passait ses soirées dans la boutique, où elle s’amusait en dedans des cochonneries de la grande Clémence.</p>
         <p>Trois années se passèrent. On se fâcha et on se raccommoda encore plusieurs fois. Gervaise se moquait pas mal des Lorilleux, des Boche et de tous ceux qui ne disaient point comme elle. S’ils n’étaient pas contents, n’est-ce pas ? ils pouvaient aller s’asseoir. Elle gagnait ce qu’elle voulait, c’était le principal. Dans le quartier, on avait fini par avoir pour elle beaucoup de considération, parce que, en somme, on ne trouvait pas des masses de pratiques aussi bonnes, payant recta, pas chipoteuse, pas râleuse. Elle prenait son pain chez madame Coudeloup, rue des Poissonniers, sa viande chez le gros Charles, un boucher de la rue Polonceau, son épicerie chez Lehongre, rue de la Goutte-d’Or, presque en face de sa boutique. François, le marchand de vin du coin de la rue, lui apportait son vin par paniers de cinquante litres. Le voisin Vigouroux, dont la femme devait avoir les hanches bleues, tant les hommes la pinçaient, lui vendait son coke au prix de la Compagnie du gaz. Et, l’on pouvait le dire, ses fournisseurs la servaient en conscience, sachant bien qu’il y avait tout à gagner avec elle, en se montrant gentil. Aussi, quand elle sortait dans le quartier, en savates et en cheveux, recevait-elle des bonjours de tous les côtés ; elle restait là chez elle, les rues voisines étaient comme les dépendances naturelles de son logement, ouvert de plain-pied sur le trottoir. Il lui arrivait maintenant de faire traîner une commission, heureuse d’être dehors, au milieu de ses connaissances. Les jours où elle n’avait pas le temps de mettre quelque chose au feu, elle allait chercher des portions, elle bavardait chez le traiteur, qui occupait la boutique de l’autre côté de la maison, une vaste salle avec de grands vitrages poussiéreux, à travers la saleté desquels on apercevait le jour terni de la cour, au fond. Ou bien, elle s’arrêtait et causait, les mains chargées d’assiettes et de bols, devant quelque fenêtre du rez-de-chaussée, un intérieur de savetier entrevu, le lit défait, le plancher encombré de loques, de deux berceaux éclopés et de la terrine à la poix pleine d’eau noire. Mais le voisin qu’elle respectait le plus était encore, en face, l’horloger, le monsieur en redingote, l’air propre, fouillant continuellement des montres avec des outils mignons ; et souvent elle traversait la rue pour le saluer, riant d’aise à regarder, dans la boutique étroite comme une armoire, la gaieté des petits coucous dont les balanciers se dépêchaient, battant l’heure à contre-temps, tous à la fois.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>VI
 <lb/></head>
         <p>Une après-midi d’automne, Gervaise, qui venait de reporter du linge chez une pratique, rue des Portes-Blanches, se trouva dans le bas de la rue des Poissonniers comme le jour tombait. Il avait plu le matin, le temps était très doux, une odeur s’exhalait du pavé gras ; et la blanchisseuse, embarrassée de son grand panier, étouffait un peu, la marche ralentie, le corps abandonné, remontant la rue avec la vague préoccupation d’un désir sensuel, grandi dans sa lassitude. Elle aurait volontiers mangé quelque chose de bon. Alors, en levant les yeux, elle aperçut la plaque de la rue Marcadet, elle eut tout d’un coup l’idée d’aller voir Goujet à sa forge. Vingt fois, il lui avait dit de pousser une pointe, un jour qu’elle serait curieuse de regarder travailler le fer. D’ailleurs, devant les autres ouvriers, elle demanderait Étienne, elle semblerait s’être décidée à entrer uniquement pour le petit.</p>
@@ -1030,7 +1030,7 @@
         <p>– Monsieur Coupeau est sur le trottoir d’en face, lui cria Clémence, dès qu’elle l’aperçut. Il a l’air joliment poivré !</p>
         <p>Coupeau traversait justement la rue. Il faillit enfoncer un carreau d’un coup d’épaule, en manquant la porte. Il avait une ivresse blanche, les dents serrées, le nez pincé. Et Gervaise reconnut tout de suite le vitriol de l’Assommoir, dans le sang empoisonné qui lui blêmissait la peau. Elle voulut rire, le coucher, comme elle faisait les jours où il avait le vin bon enfant. Mais il la bouscula, sans desserrer les lèvres ; et, en passant, en gagnant de lui-même son lit, il leva le poing sur elle. Il ressemblait à l’autre, au soûlard qui ronflait là-haut, las d’avoir tapé. Alors, elle resta toute froide, elle pensait aux hommes, à son mari, à Goujet, à Lantier, le cœur coupé, désespérant d’être jamais heureuse.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>VII
 <lb/></head>
         <p>La fête de Gervaise tombait le 19 juin. Les jours de fête, chez les Coupeau, on mettait les petits plats dans les grands ; c’étaient des noces dont on sortait ronds comme des balles, le ventre plein pour la semaine. Il y avait un nettoyage général de la monnaie. Dès qu’on avait quatre sous, dans le ménage, on les bouffait. On inventait des saints sur l’almanach, histoire de se donner des prétextes de gueuletons. Virginie approuvait joliment Gervaise de se fourrer de bons morceaux sous le nez. Lorsqu’on a un homme qui boit tout, n’est-ce pas ? c’est pain bénit de ne pas laisser la maison s’en aller en liquides et de se garnir d’abord l’estomac. Puisque l’argent filait quand même, autant valait-il faire gagner au boucher qu’au marchand de vin. Et Gervaise, agourmandie, s’abandonnait à cette excuse. Tant pis ! ça venait de Coupeau, s’ils n’économisaient plus un rouge liard. Elle avait encore engraissé, elle boitait davantage, parce que sa jambe, qui s’enflait de graisse, semblait se raccourcir à mesure.</p>
@@ -1285,7 +1285,7 @@
         <p>Personne de la société ne parvint jamais à se rappeler au juste comment la noce se termina. Il devait être très tard, voilà tout, parce qu’il ne passait plus un chat dans la rue. Peut-être bien, tout de même, qu’on avait dansé autour de la table, en se tenant par les mains. Ça se noyait dans un brouillard jaune, avec des figures rouges qui sautaient, la bouche fendue d’une oreille à l’autre. Pour sûr, on s’était payé du vin à la française vers la fin ; seulement, on ne savait plus si quelqu’un n’avait pas fait la farce de mettre du sel dans les verres. Les enfants devaient s’être déshabillés et couchés seuls. Le lendemain, madame Boche se vantait d’avoir allongé deux calottes à Boche, dans un coin, où il causait de trop près avec la charbonnière ; mais Boche, qui ne se souvenait de rien, traitait ça de blague. Ce que chacun déclarait peu propre, c’était la conduite de Clémence, une fille à ne pas inviter, décidément ; elle avait fini par montrer tout ce qu’elle possédait, et s’était trouvée prise de mal de cœur, au point d’abîmer entièrement un des rideaux de mousseline. Les hommes, au moins, sortaient dans la rue ; Lorilleux et Poisson, l’estomac dérangé, avaient filé raide jusqu’à la boutique du charcutier. Quand on a été bien élevé, ça se voit toujours. Ainsi, ces dames, madame Putois, madame Lerat et Virginie, incommodées par la chaleur, étaient simplement allées dans la pièce du fond ôter leur corset ; même Virginie avait voulu s’étendre sur le lit, l’affaire d’un instant, pour empêcher les mauvaises suites. Puis, la société semblait avoir fondu, les uns s’effaçant derrière les autres, tous s’accompagnant, se noyant au fond du quartier noir, dans un dernier vacarme, une dispute enragée des Lorilleux, un « trou la la, trou la la », entêté et lugubre du père Bru. Gervaise croyait bien que Goujet s’était mis à sangloter en partant ; Coupeau chantait toujours ; quant à Lantier, il avait dû rester jusqu’à la fin, elle sentait même encore un souffle dans ses cheveux, à un moment, mais elle ne pouvait pas dire si ce souffle venait de Lantier ou de la nuit chaude.</p>
         <p>Cependant, comme madame Lerat refusait de retourner aux Batignolles à cette heure, on enleva du lit un matelas qu’on étendit pour elle dans un coin de la boutique, après avoir poussé la table. Elle dormit là, au milieu des miettes du dîner. Et, toute la nuit, dans le sommeil écrasé des Coupeau, cuvant la fête, le chat d’une voisine qui avait profité d’une fenêtre ouverte, croqua les os de l’oie, acheva d’enterrer la bête, avec le petit bruit de ses dents fines.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>VIII
 <lb/></head>
         <p>Le samedi suivant, Coupeau, qui n’était pas rentré dîner, amena Lantier vers dix heures. Ils avaient mangé ensemble des pieds de mouton, chez Thomas, à Montmartre.</p>
@@ -1509,7 +1509,7 @@
         <p>– Tant pis, bégayait-elle, c’est sa faute, je ne puis pas… Ah ! mon Dieu ! ah ! mon Dieu ! il me renvoie de mon lit, je n’ai plus de lit… Non, je ne puis pas, c’est sa faute.</p>
         <p>Elle tremblait, elle perdait la tête. Et, pendant que Lantier la poussait dans sa chambre, le visage de Nana apparut à la porte vitrée du cabinet, derrière un carreau. La petite venait de se réveiller et de se lever doucement, en chemise, pâle de sommeil. Elle regarda son père roulé dans son vomissement ; puis, la figure collée contre la vitre, elle resta là, à attendre que le jupon de sa mère eût disparu chez l’autre homme, en face. Elle était toute grave. Elle avait de grands yeux d’enfant vicieuse, allumés d’une curiosité sensuelle.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>IX
 <lb/></head>
         <p>Cet hiver-là, maman Coupeau faillit passer, dans une crise d’étouffement. Chaque année, au mois de décembre, elle était sûre que son asthme la collait sur le dos pour des deux et trois semaines. Elle n’avait plus quinze ans, elle devait en avoir soixante-treize à la Saint-Antoine. Avec ça, très patraque, râlant pour un rien, quoique grosse et grasse. Le médecin annonçait qu’elle s’en irait en toussant, le temps de crier : Bonsoir, Jeanneton, la chandelle est éteinte !</p>
@@ -1705,7 +1705,7 @@
         <p>Le soir, quand Gervaise se retrouva chez elle, elle resta abêtie sur une chaise. Il lui semblait que les pièces étaient désertes et immenses. Vrai, ça faisait un fameux débarras. Mais elle n’avait bien sûr pas laissé que maman Coupeau au fond du trou, dans le petit jardin de la rue Marcadet. Il lui manquait trop de choses, ça devait être un morceau de sa vie à elle, et sa boutique, et son orgueil de patronne, et d’autres sentiments encore, qu’elle avait enterrés ce jour-là. Oui, les murs étaient nus, son cœur aussi, c’était un déménagement complet, une dégringolade dans le fossé. Et elle se sentait trop lasse, elle se ramasserait plus tard, si elle pouvait.</p>
         <p>À dix heures, en se déshabillant, Nana pleura, trépigna. Elle voulait coucher dans le lit de maman Coupeau. Sa mère essaya de lui faire peur ; mais la petite était trop précoce, les morts lui causaient seulement une grosse curiosité ; si bien que, pour avoir la paix, on finit par lui permettre de s’allonger à la place de maman Coupeau. Elle aimait les grands lits, cette gamine ; elle s’étalait, elle se roulait. Cette nuit-là, elle dormit joliment bien, dans la bonne chaleur et les chatouilles du matelas de plume.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>X
 <lb/></head>
         <p>Le nouveau logement des Coupeau se trouvait au sixième, escalier B. Quand on avait passé devant mademoiselle Remanjou, on prenait le corridor, à gauche. Puis, il fallait encore tourner. La première porte était celle des Bijard. Presque en face, dans un trou sans air, sous un petit escalier qui montait à la toiture, couchait le père Bru. Deux logements plus loin, on arrivait chez Bazouge. Enfin, contre Bazouge, c’étaient les Coupeau, une chambre et un cabinet donnant sur la cour. Et il n’y avait plus, au fond du couloir, que deux ménages, avant d’être chez les Lorilleux, tout au bout.</p>
@@ -1848,7 +1848,7 @@
         <p>– Madame Gervaise, papa n’est pas rentré, venez donc voir dormir mes enfants… Oh ! ils sont gentils !</p>
         <p>Mais, en face du visage hébété de la blanchisseuse, elle recula et trembla. Elle connaissait ce souffle d’eau-de-vie, ces yeux pâles, cette bouche convulsée. Alors, Gervaise passa en trébuchant, sans dire un mot, pendant que la petite, debout sur le seuil de sa porte, la suivait de son regard noir, muet et grave.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>XI
 <lb/></head>
         <p>Nana grandissait, devenait garce. À quinze ans, elle avait poussé comme un veau, très blanche de chair, très grasse, si dodue même qu’on aurait dit une pelote. Oui, c’était ça, quinze ans, toutes ses dents et pas de corset. Une vraie frimousse de margot, trempée dans du lait, une peau veloutée de pêche, un nez drôle, un bec rose, des quinquets luisants auxquels les hommes avaient envie d’allumer leur pipe. Son tas de cheveux blonds, couleur d’avoine fraîche, semblait lui avoir jeté de la poudre d’or sur les tempes, des taches de rousseur, qui lui mettaient là une couronne de soleil. Ah ! une jolie pépée, comme disaient les Lorilleux, une morveuse qu’on aurait encore dû moucher et dont les grosses épaules avaient les rondeurs pleines, l’odeur mûre d’une femme faite.</p>
@@ -2058,7 +2058,7 @@
         <p>Coupeau regardait toujours le carreau. Puis, il leva sa face ravagée, il eut un rire d’idiot, en bégayant :</p>
         <p>– Dis donc, ma biche, je ne te retiens pas… T’es pas encore trop mal, quand tu te débarbouilles. Tu sais, comme on dit, il n’y a pas si vieille marmite qui ne trouve son couvercle… Dame ! si ça devait mettre du beurre dans les épinards !</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>XII
 <lb/></head>
         <p>Ce devait être le samedi après le terme, quelque chose comme le 12 ou le 13 janvier, Gervaise ne savait plus au juste. Elle perdait la boule, parce qu’il y avait des siècles qu’elle ne s’était rien mis de chaud dans le ventre. Ah ! quelle semaine infernale ! un ratissage complet, deux pains de quatre livres le mardi qui avaient duré jusqu’au jeudi, puis une croûte sèche retrouvée la veille, et pas une miette depuis trente-six heures, une vraie danse devant le buffet ! Ce qu’elle savait, par exemple, ce qu’elle sentait sur son dos, c’était le temps de chien, un froid noir, un ciel barbouillé comme le cul d’une poêle, crevant d’une neige qui s’entêtait à ne pas tomber. Quand on a l’hiver et la faim dans les tripes, on peut serrer sa ceinture, ça ne vous nourrit guère.</p>
@@ -2220,7 +2220,7 @@
         <p>Et il fit un effort de la gorge, comme s’il avalait sa langue. Puis, trouvant la blague bonne, il ricana.</p>
         <p>Gervaise s’était relevée lentement. Lui non plus ne pouvait donc rien pour elle ? Elle rentra dans sa chambre, stupide, et se jeta sur sa paille, en regrettant d’avoir mangé. Ah ! non, par exemple, la misère ne tuait pas assez vite !</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>XIII
 <lb/></head>
         <p>Coupeau tira une bordée, cette nuit-là. Le lendemain, Gervaise reçut dix francs de son fils Étienne, qui était mécanicien dans un chemin de fer ; le petit lui envoyait des pièces de cent sous de temps à autre, sachant qu’il n’y avait pas gras à la maison. Elle mit un pot-au-feu et le mangea toute seule, car cette rosse de Coupeau ne rentra pas davantage le lendemain. Le lundi personne, le mardi personne encore. Toute la semaine se passa. Ah ! nom d’un chien ! si une dame l’avait enlevé, c’est ça qui aurait pu s’appeler une chance. Mais, juste le dimanche, Gervaise reçut un papier imprimé, qui lui fit peur d’abord, parce qu’on aurait dit une lettre du commissaire de police. Puis, elle se rassura, c’était simplement pour lui apprendre que son cochon était en train de crever à Sainte-Anne. Le papier disait ça plus poliment, seulement ça revenait au même. Oui, c’était bien une dame qui avait enlevé Coupeau, et cette dame s’appelait Sophie Tourne-de-l’œil, la dernière bonne amie des pochards.</p>

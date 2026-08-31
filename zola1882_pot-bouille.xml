@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
-<?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../teinte/tei2html.xsl"?>
+<?xml-model href="https://oeuvres.github.io/teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2016-02-16T21:47:14+01:00-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
@@ -30,7 +30,7 @@
   </teiHeader>
   <text>
     <body>
-      <div>
+      <div type="chapter">
         <head>I</head>
         <p>Rue Neuve-Saint-Augustin, un embarras de voitures arrêta le fiacre chargé de trois malles, qui amenait Octave de la gare de Lyon. Le jeune homme baissa la glace d’une portière, malgré le froid déjà vif de cette sombre après-midi de novembre. Il restait surpris de la brusque tombée du jour, dans ce quartier aux rues étranglées, toutes grouillantes de foule. Les jurons des cochers tapant sur les chevaux qui s’ébrouaient, les coudoiements sans fin des trottoirs, la file pressée des boutiques débordantes de commis et de clients, l’étourdissaient ; car, s’il avait rêvé Paris plus propre, il ne l’espérait pas d’un commerce aussi âpre, il le sentait publiquement ouvert aux appétits des gaillards solides.</p>
         <p>Le cocher s’était penché.</p>
@@ -196,7 +196,7 @@
         <p>Octave, pourtant, eut beaucoup de peine à s’endormir. Il se retournait fiévreusement, la cervelle occupée des figures nouvelles qu’il avait vues. Pourquoi diable les Campardon se montraient-ils si aimables ? Est-ce qu’ils rêvaient, plus tard, de lui donner leur fille ? Peut-être aussi le mari le prenait-il en pension pour occuper et égayer sa femme ? Et cette pauvre dame, quelle drôle de maladie pouvait-elle avoir ? Puis, ses idées se brouillèrent davantage, il vit passer des ombres : la petite M<hi rend="sup">me</hi> Pichon, sa voisine, avec ses regards vides et clairs ; la belle M<hi rend="sup">me</hi> Hédouin, correcte et sérieuse dans sa robe noire ; et les yeux ardents de M<hi rend="sup">me</hi> Valérie ; et le rire gai de M<hi rend="sup">lle</hi> Josserand. Comme il en poussait en quelques heures, sur le pavé de Paris ! Toujours il avait rêvé cela, des dames qui le prendraient par la main et qui l’aideraient dans ses affaires. Mais celles-là revenaient, se mêlaient avec une obstination fatigante. Il ne savait laquelle choisir, il s’efforçait de garder sa voix tendre, ses gestes câlins. Et, brusquement, accablé, exaspéré, il céda à son fond de brutalité, au dédain féroce qu’il avait de la femme, sous son air d’adoration amoureuse.</p>
         <p>– Vont-elles me laisser dormir à la fin ! dit-il à voix haute, en se remettant violemment sur le dos. La première qui voudra, je m’en fiche ! et toutes à la fois, si ça leur plaît !… Dormons, il fera jour demain.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>II</head>
         <p>Lorsque M<hi rend="sup">me</hi> Josserand, précédée de ses demoiselles, quitta la soirée de M<hi rend="sup">me</hi> Dambreville, qui habitait un quatrième, rue de Rivoli, au coin de la rue de l’Oratoire, elle referma rudement la porte de la rue, dans l’éclat brusque d’une colère qu’elle contenait depuis deux heures. Berthe, sa fille cadette, venait encore de manquer un mariage.</p>
         <p>– Eh bien ! que faites-vous là ? dit-elle avec emportement aux jeunes filles, arrêtées sous les arcades et regardant passer des fiacres. Marchez donc !… Si vous croyez que nous allons prendre une voiture ! Pour dépenser encore deux francs, n’est-ce pas ?</p>
@@ -373,7 +373,7 @@
         <p>– C’est guéri, c’est guéri.</p>
         <p>Cependant, M. Josserand, resté seul, avait laissé tomber sa plume, le cœur trop gonflé de chagrin. Au bout de quelques minutes, il se leva pour aller doucement écouter aux portes. M<hi rend="sup">me</hi> Josserand ronflait. Dans la chambre de ses filles, on ne pleurait pas. L’appartement était noir et paisible. Alors, il revint, un peu soulagé. Il arrangea la lampe qui charbonnait, et recommença mécaniquement à écrire. Deux grosses larmes, qu’il ne sentait point, roulèrent sur les bandes, dans le silence solennel de la maison endormie.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>III</head>
         <p>Dès le poisson, de la raie au beurre noir d’une fraîcheur douteuse, que cette gâcheuse d’Adèle avait noyée dans un flot de vinaigre, Hortense et Berthe, assises à droite et à la gauche de l’oncle Bachelard, le poussèrent à boire, emplissant son verre l’une après l’autre, répétant :</p>
         <p>– C’est votre fête, buvez donc !… À votre santé, mon oncle !</p>
@@ -555,7 +555,7 @@
         <p>Saturnin paraissait ne pas entendre. Il regardait sous la table. La jeune fille le montra d’un signe ; mais M<hi rend="sup">me</hi> Josserand eut un geste, comme pour déclarer qu’on le ferait disparaître. Et Berthe murmura :</p>
         <p>– C’est donc monsieur Vabre, décidément ? Oh ! ça m’est égal… Dire pourtant qu’on ne m’a pas gardé un sandwich !</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>IV</head>
         <p>Dès le lendemain, Octave s’occupa de Valérie. Il guetta ses habitudes, sut l’heure où il courait la chance de la rencontrer dans l’escalier ; et il s’arrangeait pour monter souvent à sa chambre, profitant du déjeuner qu’il venait prendre chez les Campardon, s’échappant s’il le fallait du <hi rend="i">Bonheur des Dames</hi>, sous un prétexte. Bientôt, il remarqua que, tous les jours, vers deux heures, la jeune femme, qui conduisait son enfant au jardin des Tuileries, passait par la rue Gaillon. Alors, il se planta sur la porte du magasin, il l’attendit, la salua d’un de ses galants sourires de beau commis. À chacune de leurs rencontres, Valérie répondait poliment de la tête, sans jamais s’arrêter ; mais il voyait son regard noir brûler de passion, il trouvait des encouragements dans son teint ravagé et dans le balancement souple de sa taille.</p>
         <p>Son plan était déjà fait, un plan hardi de séducteur habitué à mener cavalièrement la vertu des demoiselles de magasin. Il s’agissait simplement d’attirer Valérie dans sa chambre, au quatrième ; l’escalier restait désert et solennel, personne ne les découvrirait là-haut ; et il s’égayait, à l’idée des recommandations morales de l’architecte, car ce n’était pas amener des femmes, que d’en prendre une dans la maison.</p>
@@ -707,7 +707,7 @@
         <p>Alors, l’architecte frappa sur l’épaule d’Octave, en disant :</p>
         <p>– L’éducation dans la famille, mon cher, il n’y a que ça !</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>V</head>
         <p>Ce soir-là, il y avait réception et concert chez les Duveyrier. Vers dix heures, Octave qu’ils invitaient pour la première fois, achevait de s’habiller dans sa chambre. Il était grave, il éprouvait contre lui-même une sourde irritation. Pourquoi avait-il raté Valérie, une femme si bien apparentée ? Et Berthe Josserand, n’aurait-il pas dû réfléchir, avant de la refuser ? Au moment où il mettait sa cravate blanche, la pensée de Marie Pichon venait de lui être insupportable : cinq mois de Paris, et rien que cette pauvre aventure ! Cela lui était pénible comme une honte, car il sentait profondément le vide et l’inutilité d’une telle liaison. Aussi se jurait-il, en prenant ses gants, de ne plus perdre son temps de la sorte. Il était décidé à agir, puisqu’il pénétrait enfin dans le monde, où les occasions, certes, ne manquaient pas.</p>
         <p>Mais, au bout du couloir, Marie le guettait. Pichon n’étant pas là, il fut obligé d’entrer un instant.</p>
@@ -874,7 +874,7 @@
         <p>Cependant, M. Josserand, la tête sur l’oreiller, l’attendait. Elle souffla la lumière, elle l’enjamba, pour se mettre au fond. Lui, réfléchissait, repris de malaise, la conscience brouillée par la promesse d’une dot de cinquante mille francs. Et il se hasarda à dire tout haut ses scrupules. Pourquoi promettre, quand on ne sait si l’on pourra tenir ? Ce n’était pas honnête.</p>
         <p>– Pas honnête ! cria dans le noir M<hi rend="sup">me</hi> Josserand, en retrouvant sa voix féroce. Ce qui n’est pas honnête, monsieur, c’est de laisser monter ses filles en graine ; oui, en graine, tel était votre rêve peut-être !… Parbleu ! nous avons le temps de nous retourner, nous en causerons, nous finirons par décider son oncle… Et apprenez, monsieur, que, dans ma famille, on a toujours été honnête !</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>VI</head>
         <p>Le lendemain, qui était un dimanche, Octave, les yeux ouverts, s’oublia une heure dans la chaleur des draps. Il s’éveillait heureux, plein de cette lucidité des paresses du matin. À quoi bon se presser ? Il se trouvait bien au <hi rend="i">Bonheur des Dames</hi>, il s’y décrassait de sa province, et une certitude profonde, absolue, lui venait d’avoir un jour M<hi rend="sup">me</hi> Hédouin, qui ferait sa fortune ; mais c’était une affaire de prudence, une longue tactique de galanterie, où se plaisait déjà son sens voluptueux de la femme. Comme il se rendormait, dressant des plans, se donnant six mois pour réussir, l’image de Marie Pichon avait achevé de calmer ses impatiences. Une femme pareille était très commode ; il lui suffisait d’allonger le bras, quand il la voulait, et elle ne lui coûtait pas un sou. En attendant l’autre, certes, il ne pouvait demander mieux. Dans son demi-sommeil, ce bon marché et cette commodité finissaient par l’attendrir : il la voyait très gentille avec ses complaisances, il se promettait d’être meilleur pour elle, désormais.</p>
         <p>– Fichtre ! neuf heures ! dit-il, réveillé tout à fait par la sonnerie de sa pendule. Il faut pourtant se lever.</p>
@@ -1075,7 +1075,7 @@
         <p>Et, pendant ce temps, dans la chambre voisine, l’ouvrier qui gardait sa pointe de vin, parlait seul, d’une voix si haute, que le corridor entier l’entendait.</p>
         <p>– Hein ? c’est drôle tout de même, qu’on vous empêche de coucher avec votre femme !… Pas de femmes dans ta maison, bougre de ramolli ! Va donc en ce moment mettre un peu le nez sous les draps, pour voir !</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>VII</head>
         <p>Depuis quinze jours, pour amener l’oncle Bachelard à doter Berthe, les Josserand l’invitaient presque chaque soir, malgré sa malpropreté.</p>
         <p>Quand on lui avait annoncé le mariage, il s’était contenté de donner une légère tape sur la joue de sa nièce, en disant :</p>
@@ -1270,7 +1270,7 @@
         <p>– En voilà assez, n’est-ce pas ? monsieur. Vous n’allez peut-être pas marier votre fille avec cette figure d’enterrement… Tenez ! sur ce que j’ai de plus sacré, sur la tombe de mon père, l’oncle payera les dix premiers mille francs, j’en réponds ! Il me l’a formellement juré, en sortant de chez le notaire.</p>
         <p>M. Josserand ne répondit même pas. Il passa la nuit à faire des bandes. Au petit jour, dans le frisson du matin, il achevait son deuxième mille et gagnait six francs. Plusieurs fois, il avait levé la tête comme d’habitude, pour écouter si Saturnin ne remuait point, à côté. Puis, la pensée de Berthe lui donnait une nouvelle fièvre de travail. Pauvre petite, elle aurait voulu être en moire blanche. Enfin, avec six francs, elle pourrait mettre davantage à son bouquet de mariée.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>VIII</head>
         <p>Le mariage à la mairie avait eu lieu le jeudi. Dès dix heures un quart, le samedi matin, des dames attendaient déjà dans le salon des Josserand, la cérémonie religieuse étant pour onze heures, à Saint-Roch. Il y avait là M<hi rend="sup">me</hi> Juzeur toujours en soie noire, M<hi rend="sup">me</hi> Dambreville sanglée dans une robe feuille-morte, M<hi rend="sup">me</hi> Duveyrier très simple, habillée de bleu pâle. Toutes trois causaient à voix basse, au milieu de la débandade des fauteuils ; tandis que, dans la chambre voisine, M<hi rend="sup">me</hi> Josserand achevait d’habiller Berthe, aidée de la bonne et des deux demoiselles d’honneur, Hortense et la petite Campardon.</p>
         <p>– Oh ! ce n’est pas cela, murmura M<hi rend="sup">me</hi> Duveyrier, la famille est honorable… Mais, je l’avoue, je redoutais un peu pour mon frère Auguste, l’esprit dominateur de la mère… Il faut tout prévoir, n’est-ce pas ?</p>
@@ -1457,7 +1457,7 @@
         <p>Déjà, Auguste, l’œil gauche fermé, rendu fou par la migraine qu’il promenait depuis le matin, était dans l’appartement, où la famille arrivait. Alors, au moment de quitter Berthe, Valérie céda à une brusque émotion, et la serrant dans ses bras, achevant de chiffonner sa robe blanche, elle la baisa, elle lui dit à voix basse :</p>
         <p>– Ah ! ma chère, je vous souhaite plus de chance qu’à moi !</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>IX</head>
         <p>Deux jours plus tard, vers sept heures, comme Octave arrivait chez les Campardon pour le dîner, il trouva Rose seule, vêtue d’un peignoir de soie crème, garni de dentelles blanches.</p>
         <p>– Vous attendez quelqu’un ? demanda-t-il.</p>
@@ -1635,7 +1635,7 @@
         <p>Il fut surpris qu’on le sût déjà dans le quartier. La jeune femme avait appelé son mari. Puisqu’il voulait monter le lendemain, pour causer avec M. Mouret, il pouvait bien lui parler tout de suite. Et Auguste, la mine maussade, sans transition, offrit à Octave d’entrer chez eux. Ce dernier, pris à l’improviste, hésitait, était sur le point de refuser, en songeant au peu d’importance de la maison. Mais il aperçut le joli visage de Berthe, qui lui souriait de son air de bon accueil, avec le gai regard qu’il avait déjà rencontré deux fois, le jour de son arrivée et le jour des noces.</p>
         <p>– Eh bien ! oui, dit-il résolument.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>X</head>
         <p>Alors, Octave se trouva rapproché des Duveyrier. Souvent, lorsque M<hi rend="sup">me</hi> Duveyrier rentrait, elle traversait le magasin de son frère, s’arrêtait à causer un instant avec Berthe ; et, la première fois qu’elle aperçut le jeune homme, installé derrière un comptoir, elle lui fit d’aimables reproches sur son manque de parole, en lui rappelant son ancienne promesse de venir un soir, chez elle, essayer sa voix au piano. Justement, elle voulait donner une seconde audition de la <hi rend="i">Bénédiction des Poignards</hi>, à un de ses premiers samedis de l’hiver suivant, mais avec deux ténors de plus, quelque chose de très complet.</p>
         <p>– Si cela ne vous contrarie pas, dit un jour Berthe à Octave, vous pourrez monter après votre dîner chez ma belle-sœur. Elle vous attend.</p>
@@ -1826,7 +1826,7 @@
         <p>– Attendons demain, n’est-ce pas ? dit-elle, vous m’enverrez Berthe sous un prétexte ; je ferai aussi demander Valérie, et ce sont elles qui instruiront mes frères… Ah ! les pauvres gens, qu’ils dorment encore tranquilles cette nuit ! Il y a bien assez de nous, à veiller dans les larmes.</p>
         <p>Et, en face du vieillard dont le râle emplissait la chambre d’un frisson, elle et son mari restèrent seuls.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>XI</head>
         <p>Lorsque, le lendemain, à huit heures, Octave descendit de sa chambre, il fut très surpris de trouver toute la maison au courant de l’attaque de la veille et de la situation désespérée où était le propriétaire. Du reste, la maison ne s’occupait pas du malade : elle ouvrait la succession.</p>
         <p>Dans leur petite salle à manger, les Pichon s’attablaient devant des bols de chocolat. Jules appela Octave.</p>
@@ -2037,7 +2037,7 @@
         <p>La mère ne parut pas comprendre.</p>
         <p>– Je les veux, entends-tu !… Non, non, il doit trop rire dans la terre, ce vieux scélérat de père Vabre ! Je ne le laisserai pas se vanter de m’avoir roulée. Faut-il qu’il y ait du monde canaille ! promettre un argent qu’on n’a pas !… Oh ! on te les donnera, ma fille, ou j’irai le déterrer plutôt, pour lui cracher à la figure !</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>XII</head>
         <p>Un matin, comme Berthe se trouvait justement chez sa mère, Adèle vint dire d’un air effaré que M. Saturnin était là, avec un homme. Le Dr Chassagne, directeur de l’asile des Moulineaux, avait déjà plusieurs fois prévenu les parents qu’il ne pouvait garder leur fils, car il ne jugeait pas chez lui la folie assez caractérisée. Et, tout d’un coup, ayant eu connaissance de la signature arrachée par Berthe à son frère pour les trois mille francs, redoutant d’être compromis, il le renvoyait à la famille.</p>
         <p>Ce fut une épouvante. M<hi rend="sup">me</hi> Josserand, qui craignait d’être étranglée, voulut causer avec l’homme. Celui-ci déclara simplement :</p>
@@ -2204,7 +2204,7 @@
         <p>– Tu sais, ça vient de mon petit travail… Si tu dois, il faut payer.</p>
         <p>Alors, entre son père, qui lui poussait le genou, et son amant, qui frottait doucement sa bottine, elle se sentit pleine d’aise. La vie allait être charmante. Et tous se détendaient, goûtaient l’agrément d’une soirée passée en famille, sans dispute. En vérité, ce n’était pas naturel, quelque chose devait leur porter bonheur. Seul, Auguste avait les yeux tirés, envahi par une migraine, qu’il attendait d’ailleurs, à la suite de tant d’émotions. Même, vers neuf heures, il dut aller se coucher.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>XIII</head>
         <p>Depuis quelque temps, M. Gourd rôdait d’un air de mystère et d’inquiétude. On le rencontrait filant sans bruit, l’œil ouvert, l’oreille tendue, montant sans cesse les deux escaliers, où des locataires l’avaient même aperçu faisant des rondes de nuit. Certainement, la moralité de la maison le préoccupait ; il y sentait comme un souffle de choses déshonnêtes qui troublait la nudité froide de la cour, la paix recueillie du vestibule, les belles vertus domestiques des étages.</p>
         <p>Un soir, Octave avait trouvé le concierge sans lumière, immobile au fond de son couloir, collé contre la porte qui donnait sur l’escalier de service. Surpris, il l’interrogea.</p>
@@ -2367,7 +2367,7 @@
         <p>Alors, seulement, M. Gourd triompha. Comme si ce ventre emportait le malaise de la maison, les choses déshonnêtes dont frissonnaient les murs, il cria au propriétaire :</p>
         <p>– Un bon débarras, monsieur !… On va donc respirer, car ça devenait répugnant, ma parole d’honneur ! J’ai cent livres de moins sur la poitrine… Non, voyez-vous, monsieur, dans une maison qui se respecte, il ne faut pas de femmes, et surtout pas de ces femmes qui travaillent !</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>XIV</head>
         <p>Le mardi suivant, Berthe manqua de parole à Octave. Cette fois, elle l’avait averti de ne pas l’attendre, dans une brève explication, le soir, après la fermeture du magasin ; et elle sanglotait, elle était allée se confesser la veille, reprise d’un besoin de religion, toute suffoquée encore par les exhortations douloureuses de l’abbé Mauduit. Depuis son mariage, elle ne pratiquait plus ; mais, à la suite des gros mots dont les bonnes l’avaient éclaboussée, elle venait de se sentir si triste, si abandonnée, si malpropre, qu’elle s’était rejetée pour une heure dans ses croyances d’enfant, enflammée d’un espoir de purification et de salut. Au retour, le prêtre ayant pleuré avec elle, sa faute lui faisait horreur. Octave, impuissant, furieux, haussa les épaules.</p>
         <p>Puis, trois jours plus tard, elle promit de nouveau pour le mardi suivant. Dans un rendez-vous donné à son amant, passage des Panoramas, elle avait vu des châles de chantilly ; et elle en parlait sans cesse, avec des yeux mourants de désir. Aussi, le lundi matin, le jeune homme lui dit-il en riant, pour adoucir la brutalité du marché, que, si elle tenait sa parole enfin, elle trouverait chez lui une petite surprise. Elle comprit, elle se mit une fois encore à pleurer. Non ! non ! maintenant, elle n’irait pas, il lui gâtait le bonheur de leur rendez-vous. Elle avait parlé de ce châle en l’air, elle n’en voulait plus, elle le jetterait au feu, s’il lui en faisait cadeau. Pourtant, le lendemain, ils convinrent de tout : minuit et demi, elle frapperait trois coups légers.</p>
@@ -2586,7 +2586,7 @@
         <p>– Ah ! pour le plaisir que nous prenions ! dit Berthe, dans un soupir où crevait tout le vide bête et cruel de sa nuit. Il a raison de jurer. Si c’est comme moi, il doit en avoir par-dessus la tête !</p>
         <p>Elles allaient parler d’Octave. Elles se turent, et tout d’un coup, à tâtons, elles tombèrent aux bras l’une de l’autre, en sanglotant. Leurs membres nus s’étreignaient avec une passion convulsive ; leurs gorges, chaudes de pleurs, s’écrasaient sous leurs chemises arrachées. C’était une lassitude dernière, une tristesse immense, la fin de tout. Elles ne disaient plus un mot, leurs larmes ruisselaient, ruisselaient sans fin dans les ténèbres, au milieu du profond sommeil de la maison, plein de décence.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>XV</head>
         <p>Ce matin-là, le réveil de la maison fut d’une grande dignité bourgeoise. Rien, dans l’escalier, ne gardait la trace des scandales de la nuit, ni les faux marbres qui avaient reflété ce galop d’une femme en chemise, ni la moquette d’où s’était évaporée l’odeur de sa nudité. Seul, M. Gourd, lorsqu’il monta vers sept heures donner son coup d’œil, flaira les murs ; mais ce qui ne le regardait pas, ne le regardait pas ; et comme, en redescendant, il aperçut dans la cour deux bonnes, Lisa et Julie, qui causaient à coup sûr de la catastrophe, tant elles semblaient allumées, il les dévisagea d’un œil si ferme, qu’elles se séparèrent. Ensuite, il sortit s’assurer de la tranquillité de la rue. Elle était calme. Déjà, pourtant, les bonnes avaient dû parler, car des voisines s’arrêtaient, des boutiquiers sortaient sur leur porte, les yeux en l’air, cherchant et fouillant les étages, de l’air béant dont on contemple les maisons où il s’est passé un crime. Devant la façade riche, d’ailleurs, le monde se taisait et s’en allait poliment.</p>
         <p>À sept heures et demie, M<hi rend="sup">me</hi> Juzeur parut en peignoir, pour surveiller Louise, disait-elle. Ses yeux luisaient, une fièvre brûlait ses mains. Elle arrêta Marie, qui remontait avec son lait, et voulut la faire causer ; mais elle n’en tira rien, elle ne put même savoir comment la mère avait accueilli la fille coupable. Alors, sous le prétexte d’attendre un instant le facteur, elle entra chez les Gourd, elle finit par demander pourquoi M. Octave ne descendait pas : peut-être bien qu’il était malade. Le concierge répondit qu’il l’ignorait ; du reste, M. Octave ne descendait jamais avant huit heures dix minutes. À ce moment, l’autre M<hi rend="sup">me</hi> Campardon passa devant la loge, blême et rigide ; tous la saluèrent. Et M<hi rend="sup">me</hi> Juzeur, forcée de remonter, eut enfin la chance de rencontrer sur son palier l’architecte, qui partait en mettant ses gants. D’abord, tous deux se contemplèrent d’un air accablé ; puis, il haussa les épaules.</p>
@@ -2810,7 +2810,7 @@
         <p>Heureusement, on arrivait et on put dégager la victime. Il fallut enfermer Saturnin, pris de folie furieuse. Deux heures plus tard, le commissaire, averti, le faisait conduire pour la seconde fois à l’asile des Moulineaux, avec le consentement de la famille. Mais le pauvre Auguste restait grelottant. Il disait à Duveyrier, qui lui annonçait l’arrangement pris avec Octave :</p>
         <p>– Non, j’aurais mieux aimé me battre. On ne peut pas se défendre contre un fou… Quelle rage a-t-il donc de vouloir me saigner, ce brigand, parce que sa sœur m’a fait cocu ! Ah ! j’en ai assez, mon ami, j’en ai assez, parole d’honneur !</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>XVI</head>
         <p>Dans la matinée du mercredi, lorsque Marie avait amené Berthe à M<hi rend="sup">me</hi> Josserand, celle-ci, suffoquée par une aventure dont elle sentait son orgueil atteint, était restée toute pâle, sans une parole.</p>
         <p>Elle prit la main de sa fille avec la brutalité d’une sous-maîtresse qui jette au cabinet noir une élève coupable ; et elle la conduisit à la chambre d’Hortense, l’y poussa en disant enfin :</p>
@@ -3012,7 +3012,7 @@
         <p>Alors, elles pénétrèrent dans la chambre. Devant le lit, M. Josserand gisait, pris de faiblesse ; sa tête avait porté sur une chaise, un mince filet de sang coulait de l’oreille droite. La mère, les deux filles, la bonne, l’entourèrent, l’examinèrent. Berthe seule pleurait, reprise des gros sanglots dont la gifle l’avait secouée. Et, quand elles voulurent, à elles quatre, le soulever pour le mettre sur le lit, elles l’entendirent qui murmurait :</p>
         <p>– C’est fini… Elles m’ont tué.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>XVII</head>
         <p>Des mois se passèrent, le printemps était venu. On parlait, rue de Choiseul, du prochain mariage d’Octave avec M<hi rend="sup">me</hi> Hédouin.</p>
         <p>Les choses, pourtant, n’allaient pas si vite. Octave, au <hi rend="i">Bonheur des Dames</hi>, avait repris sa situation, qui chaque jour s’élargissait. M<hi rend="sup">me</hi> Hédouin, depuis la mort de son mari, ne pouvait suffire aux affaires sans cesse croissantes ; son oncle, le vieux Deleuze, cloué sur un fauteuil par des rhumatismes, ne s’occupait de rien ; et, naturellement, le jeune homme, très actif, travaillé de son besoin de grand commerce, était arrivé en peu de temps à prendre dans la maison une importance décisive. Du reste, encore irrité de ses amours imbéciles avec Berthe, il ne rêvait plus d’utiliser les femmes, il les redoutait même. Le mieux lui semblait de devenir tranquillement l’associé de M<hi rend="sup">me</hi> Hédouin, puis de commencer la danse des millions. Aussi, se rappelant son échec ridicule auprès d’elle, la traitait-il en homme, comme elle désirait être traitée.</p>
@@ -3206,7 +3206,7 @@
         <p>Oh ! Seigneur, l’heure sonnait-elle de ne plus couvrir du manteau de la religion les plaies de ce monde décomposé ? Devait-il ne plus aider à l’hypocrisie de son troupeau, n’être plus toujours là, comme un maître de cérémonie, pour régler le bel ordre des sottises et des vices ? Fallait-il donc laisser tout crouler, au risque que l’Église elle-même fût éventrée par les décombres ? Oui, tel était l’ordre sans doute, car la force d’aller plus avant dans la misère humaine l’abandonnait, il agonisait d’impuissance et de dégoût. Ce qu’il avait remué de vilenies depuis le matin, lui étouffait le cœur. Et les mains ardemment tendues, il demandait pardon, pardon de ses mensonges, pardon des complaisances lâches et des promiscuités infâmes. La peur de Dieu le prenait aux entrailles, il voyait Dieu qui le reniait, qui lui défendait d’abuser encore de son nom, un Dieu de colère résolu à exterminer enfin le peuple coupable. Toutes les tolérances du mondain s’en allaient sous les scrupules déchaînés de cette conscience, et il ne restait que la foi du croyant, épouvantée, se débattant dans l’incertitude du salut. Oh ! Seigneur, quelle était la route, que fallait-il faire au milieu de cette société finissante, qui pourrissait jusqu’à ses prêtres ?</p>
         <p>Alors, l’abbé Mauduit, les yeux sur le Calvaire, éclata en sanglots. Il pleurait comme Marie et Madeleine, il pleurait la vérité morte, le ciel vide. Au fond des marbres et des orfèvreries, le grand Christ de plâtre n’avait plus une goutte de sang.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>XVIII</head>
         <p>En décembre, au huitième mois de son deuil, M<hi rend="sup">me</hi> Josserand consentit pour la première fois à dîner en ville. C’était d’ailleurs chez les Duveyrier, presque un dîner de famille, par lequel Clotilde ouvrait ses samedis du nouvel hiver. La veille, Adèle fut prévenue qu’elle descendrait aider Julie, pour la vaisselle. Ces dames, les jours de réception, se prêtaient ainsi leur monde.</p>
         <p>– Surtout, tâchez d’être plus solide, recommanda M<hi rend="sup">me</hi> Josserand à sa bonne. Je ne sais ce que vous avez dans le corps maintenant, on dirait du chiffon… Vous êtes pourtant grasse et grosse.</p>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
-<?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../teinte/tei2html.xsl"?>
+<?xml-model href="https://oeuvres.github.io/teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2016-02-19T11:53:13+01:00-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
@@ -28,7 +28,7 @@
   </teiHeader>
   <text>
     <body>
-      <div>
+      <div type="chapter">
         <head>I</head>
         <p>Claude passait devant l’Hôtel-de-Ville, et deux heures du matin sonnaient à l’horloge, quand l’orage éclata. Il s’était oublié à rôder dans les Halles, par cette nuit brûlante de juillet, en artiste flâneur, amoureux du Paris nocturne. Brusquement, les gouttes tombèrent si larges, si drues, qu’il prit sa course, galopa dégingandé, éperdu, le long du quai de la Grève. Mais, au pont Louis-Philippe, une colère de son essoufflement l’arrêta : il trouvait imbécile cette peur de l’eau ; et, dans les ténèbres épaisses, sous le cinglement de l’averse qui noyait les becs de gaz, il traversa lentement le pont, les mains ballantes.</p>
         <p>Du reste, Claude n’avait plus que quelques pas à faire. Comme il tournait sur le quai de Bourbon, dans l’île Saint-Louis, un vif éclair illumina la ligne droite et plate des vieux hôtels rangés devant la Seine, au bord de l’étroite chaussée. La réverbération alluma les vitres des hautes fenêtres sans persiennes, on vit le grand air triste des antiques façades, avec des détails très nets, un balcon de pierre, une rampe de terrasse, la guirlande sculptée d’un fronton. C’était là que le peintre avait son atelier, dans les combles de l’ancien hôtel du Martoy, à l’angle de la rue de la Femme-sans-Tête. Le quai entrevu était aussitôt retombé aux ténèbres, et un formidable coup de tonnerre avait ébranlé le quartier endormi.</p>
@@ -212,7 +212,7 @@
         <p>Le soleil s’en était allé, il faisait moins chaud.</p>
         <p>Et Claude, ouvrant une petite fenêtre, au ras du toit, respira d’un air de profond soulagement la bouffée de vent embrasé qui entrait. Il avait pris son dessin, la tête de Christine, et il s’oublia longtemps à la regarder.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>II</head>
         <p>Midi était sonné, Claude travaillait à son tableau, lorsqu’une main familière tapa rudement contre la porte. D’un mouvement instinctif, et dont il ne fut pas le maître, le peintre glissa dans un carton la tête de Christine, d’après laquelle il retouchait sa grande figure de femme. Puis, il se décida à ouvrir.</p>
         <p>« Pierre ! cria-t-il. Déjà toi ? »</p>
@@ -379,7 +379,7 @@
         <p>Un moment, Claude refusa de se rendre. Il demeurait cloué au parquet, sourd à leurs voix amicales, farouche dans son entêtement. Que voulait-il faire, maintenant que ses doigts raidis lâchaient le pinceau ? Il ne savait pas ; mais il avait beau ne plus pouvoir, il était ravagé par un désir furieux de pouvoir encore, de créer quand même. Et, s’il ne faisait rien, il resterait au moins, il ne quitterait pas la place. Puis, il se décida, un tressaillement le traversa comme d’un grand sanglot. À pleine main, il avait pris un couteau à palette très large ; et, d’un seul coup, lentement, profondément, il gratta la tête et la gorge de la femme. Ce fut un meurtre véritable, un écrasement : tout disparut dans une bouillie fangeuse. Alors, à côté du monsieur au veston vigoureux, parmi les verdures éclatantes où se jouaient les deux petites lutteuses si claires, il n’y eut plus, de cette femme nue, sans poitrine et sans tête, qu’un tronçon mutilé, qu’une tache vague de cadavre, une chair de rêve évaporée et morte.</p>
         <p>Déjà, Sandoz et Dubuche descendaient bruyamment l’escalier de bois. Et Claude les suivit, s’enfuit de son œuvre, avec la souffrance abominable de la laisser ainsi, balafrée d’une plaie béante.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>III</head>
         <p>Le commencement de la semaine fut désastreux pour Claude. Il était tombé dans un de ces doutes qui lui faisaient exécrer la peinture, d’une exécration d’amant trahi, accablant l’infidèle d’insultes, torturé du besoin de l’adorer encore ; et, le jeudi, après trois horribles journées de lutte vaine et solitaire, il sortit dès huit heures du matin, il referma violemment sa porte, si écœuré de lui-même qu’il jurait de ne plus toucher un pinceau. Quand une de ces crises le détraquait, il n’avait qu’un remède : s’oublier, aller se prendre de querelle avec des camarades, marcher surtout, marcher au travers de Paris, jusqu’à ce que la chaleur et l’odeur de bataille des pavés lui eussent remis du cœur au ventre.</p>
         <p>Ce jour-là, comme tous les jeudis, il dînait chez Sandoz, où il y avait réunion. Mais que faire jusqu’au soir ? L’idée de rester seul, à se dévorer, le désespérait. Il aurait couru tout de suite chez son ami, s’il ne s’était dit que ce dernier devait être à son bureau. Puis, la pensée de Dubuche lui vint, et il hésita, car leur vieille camaraderie se refroidissait depuis quelque temps. Il ne sentait pas entre eux la fraternité des heures nerveuses, il le devinait inintelligent, sourdement hostile, engagé dans d’autres ambitions. Pourtant, à quelle porte frapper ? Et il se décida, il se rendit rue Jacob, où l’architecte habitait une étroite chambre, au sixième étage d’une grande maison froide.</p>
@@ -633,7 +633,7 @@
         <p>La dégringolade assourdie des souliers le long des marches alla en s’affaiblissant, et la maison retomba dans un grand silence.</p>
         <p>Quatre heures sonnaient. Claude, qui accompagnait Bongrand, causait toujours, à travers les rues désertes. Il ne voulait pas se coucher, il attendait le soleil, avec une rage d’impatience, pour se remettre à son tableau. Cette fois, il était certain de faire un chef-d’œuvre, exalté par cette bonne journée de camaraderie, la tête douloureuse et grosse d’un monde. Enfin, il avait trouvé la peinture, il se voyait rentrant dans son atelier comme on retourne chez une femme adorée, le cœur battant à grands coups, désespéré maintenant de cette absence d’un jour, qui lui semblait un abandon sans fin ; et il allait droit à sa toile, et en une séance il réalisait son rêve. Cependant, tous les vingt pas, à la clarté vacillante des becs de gaz, Bongrand l’arrêtait par un bouton de son paletot, en lui répétant que cette sacrée peinture était un métier du tonnerre de Dieu. Ainsi, lui, Bongrand, avait beau être un malin, il n’y entendait rien encore. À chaque œuvre nouvelle, il débutait, c’était à se casser la tête contre les murs. Le ciel s’éclairait, des maraîchers commençaient à descendre vers les Halles. Et l’un et l’autre continuaient à vaguer, chacun parlant pour lui, très haut, sous les étoiles pâlissantes.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>IV</head>
         <p>Six semaines plus tard, Claude peignait un matin, dans un flot de soleil qui tombait par la baie vitrée de l’atelier. Des pluies continues avaient attristé le milieu d’août, et le courage au travail lui revenait avec le ciel bleu. Son grand tableau n’avançait guère, il s’y appliquait pendant de longues matinées silencieuses, en artiste combattu et obstiné.</p>
         <p>On frappa. Il crut que c’était M<hi rend="sup">me</hi> Joseph, la concierge, qui lui montait son déjeuner ; et, comme la clef restait toujours sur la porte, il cria simplement :</p>
@@ -778,7 +778,7 @@
         <p>Saisi, immobile de joie, lui la regarda se dévêtir. Il la retrouvait. La vision rapide, tant de fois évoquée, redevenait vivante. C’était cette enfance, grêle encore, mais si souple, d’une jeunesse si fraîche ; et il s’étonnait de nouveau : où cachait-elle cette gorge épanouie, qu’on ne soupçonnait point sous la robe ? Il ne parla pas non plus, il se mit à peindre, dans le silence recueilli qui s’était fait. Durant trois longues heures, il se rua au travail, d’un effort si viril, qu’il acheva d’un coup une ébauche superbe du corps entier. Jamais la chair de la femme ne l’avait grisé de la sorte, son cœur battait comme devant une nudité religieuse. Il ne s’approchait point, il restait surpris de la transfiguration du visage, dont les mâchoires un peu massives et sensuelles s’étaient noyées sous l’apaisement tendre du front et des joues. Pendant les trois heures, elle ne remua pas, elle ne souffla pas, faisant le don de sa pudeur, sans un frisson, sans une gêne. Tous deux sentaient que, s’ils disaient une seule phrase, une grande honte leur viendrait. Seulement, de temps à autre, elle ouvrait ses yeux clairs, les fixait sur un point vague de l’espace, restait ainsi un instant sans qu’il pût rien y lire de ses pensées, puis les refermait, retombait dans son néant de beau marbre, avec le sourire mystérieux et figé de la pose.</p>
         <p>Claude, d’un geste, dit qu’il avait fini ; et, redevenu gauche, il bouscula une chaise pour tourner le dos plus vite ; tandis que, très rouge, Christine quittait le divan. En hâte, elle se rhabilla, dans un grelottement brusque, prise d’un tel émoi, qu’elle s’agrafait de travers, tirant ses manches, remontant son col, pour ne plus laisser un seul coin de sa peau nue. Et elle était enfouie au fond de sa pelisse, que lui, le nez toujours contre le mur, ne se décidait pas à risquer un regard. Pourtant, il revint vers elle, ils se contemplèrent, hésitants, étranglés d’une émotion qui les empêcha encore de parler. Était-ce donc de la tristesse, une tristesse infinie, inconsciente et innommée ? car leurs paupières se gonflèrent de larmes, comme s’ils venaient de gâter leur existence, de toucher le fond de la misère humaine. Alors, attendri et navré, ne trouvant rien, pas même un remerciement, il la baisa au front.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>V</head>
         <p>Le 15 mai, Claude, qui était rentré la veille de chez Sandoz à trois heures du matin, dormait encore, vers neuf heures, lorsque M<hi rend="sup">me</hi> Joseph lui monta un gros bouquet de lilas blancs, qu’un commissionnaire venait d’apporter. Il comprit, Christine lui fêtait à l’avance le succès de son tableau ; car c’était un grand jour pour lui, l’ouverture du Salon des Refusés, créé de cette année-là, et où allait être exposée son œuvre, repoussée par le jury du Salon officiel.</p>
         <p>Cette pensée tendre, ces lilas frais et odorants, qui l’éveillaient, le touchèrent beaucoup, comme s’ils étaient le présage d’une bonne journée. En chemise, nu-pieds, il les mit dans son pot à eau, sur la table. Puis, les yeux enflés de sommeil, effaré, il s’habilla, en grondant d’avoir dormi si tard. La veille, il avait promis à Dubuche et à Sandoz de les prendre, dès huit heures, chez ce dernier, pour se rendre tous les trois ensemble au Palais de l’Industrie, où l’on trouverait le reste de la bande. Et il était déjà en retard d’une heure !</p>
@@ -985,7 +985,7 @@
         <p>« Tais-toi, tais-toi, je t’aime ! »</p>
         <p>Ils s’adoraient, leur camaraderie devait aboutir à ces noces, sur ce divan, dans l’aventure de ce tableau qui peu à peu les avait unis. Le crépuscule les enveloppa, ils restèrent aux bras l’un de l’autre, anéantis, en larmes sous cette première joie d’amour. Près d’eux, au milieu de la table, les lilas qu’elle avait envoyés le matin embaumaient la nuit ; et les parcelles d’or éparses, envolées du cadre, luisaient seules d’un reste de jour, pareilles à un fourmillement d’étoiles.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>VI</head>
         <p>Le soir, comme il la tenait encore dans ses bras, il lui avait dit :</p>
         <p>« Reste ! »</p>
@@ -1178,7 +1178,7 @@
         <p>Cinq jours plus tard, ils partaient pour Paris, après avoir tout emballé et tout envoyé au chemin de fer.</p>
         <p>Claude était déjà sur la route, avec le petit Jacques, lorsque Christine s’imagina qu’elle oubliait quelque chose. Elle revint seule dans la maison, elle la trouva complètement vide et se mit à pleurer : c’était une sensation d’arrachement, quelque chose d’elle-même qu’elle laissait, sans pouvoir dire quoi. Comme elle serait volontiers restée ! quel ardent désir elle avait de vivre toujours là, elle qui venait d’exiger ce départ, ce retour dans la ville de passion, où elle sentait une rivale ! Pourtant, elle continuait à chercher ce qui lui manquait, elle finit par cueillir une rose, devant la cuisine, une dernière rose, rouillée par le froid. Puis, elle ferma la porte sur le jardin désert.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>VII</head>
         <p>Lorsqu’il se retrouva sur le pavé de Paris, Claude fut pris d’une fièvre de vacarme et de mouvement, du besoin de sortir, de battre la ville, d’aller voir les camarades. Il filait dès son réveil, il laissait Christine installer seule l’atelier qu’ils avaient loué rue de Douai, près du boulevard de Clichy. Ce fut de la sorte que, le surlendemain de sa rentrée, il tomba chez Mahoudeau, à huit heures du matin, par un petit jour gris et glacé de novembre, qui se levait à peine.</p>
         <p>Pourtant, la boutique de la rue du Cherche-Midi, que le sculpteur occupait toujours, était ouverte ; et celui-ci, la face blanche, mal réveillé, enlevait les volets en grelottant.</p>
@@ -1482,7 +1482,7 @@
         <p>Alors, Gagnière tressaillit. Sa face enchantée eut une contraction douloureuse, et il grelotta, comme s’il retombait d’un astre. Goulûment, il but sa bière ; puis, sur le trottoir, après avoir serré en silence la main de son compagnon, il s’éloigna, s’effaça au fond des ténèbres.</p>
         <p>Il était près de deux heures, lorsque Claude rentra rue de Douai. Depuis une semaine qu’il battait de nouveau Paris, il y rapportait ainsi chaque soir les fièvres de sa journée. Mais jamais encore il n’était revenu si tard, la tête si chaude et si fumante. Christine, vaincue par la fatigue, dormait sous la lampe éteinte, le front tombé au bord de la table.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>VIII</head>
         <p>Enfin, Christine donna un dernier coup de plumeau, et ils furent installés. Cet atelier de la rue de Douai, petit et incommode, était accompagné seulement d’une étroite chambre et d’une cuisine grande comme une armoire : il fallait manger dans l’atelier, le ménage y vivait, avec l’enfant toujours en travers des jambes. Et elle avait eu bien du mal à tirer parti de leurs quatre meubles, car elle voulait éviter la dépense. Pourtant, elle dut acheter un vieux lit d’occasion, elle céda même au besoin luxueux d’avoir des rideaux de mousseline blanche, à sept sous le mètre. Dès lors, ce trou lui parut charmant, elle se mit à le tenir sur un pied de propreté bourgeoise, ayant résolu de faire tout en personne et de se passer de servante, pour ne pas trop changer leur vie, qui allait être difficile.</p>
         <p>Claude vécut ces premiers mois dans une excitation croissante. Les courses au milieu des rues tumultueuses, les visites chez les camarades, enfiévrées de discussions, toutes les colères, toutes les idées chaudes qu’il rapportait ainsi du dehors, le faisaient se passionner à voix haute, jusque dans son sommeil. Paris l’avait repris aux moelles, violemment ; et, en pleine flambée de cette fournaise, c’était une seconde jeunesse, un enthousiasme et une ambition à désirer tout voir, tout faire, tout conquérir. Jamais il ne s’était senti une telle rage de travail, ni un tel espoir, comme s’il lui avait suffi d’étendre la main, pour créer les chefs-d’œuvre qui le mettraient à son rang, au premier. Quand il traversait Paris, il découvrait des tableaux partout ; la ville entière, avec ses rues, ses carrefours, ses ponts, ses horizons vivants, se déroulait en fresques immenses, qu’il jugeait toujours trop petites, pris de l’ivresse des besognes colossales. Et il rentrait frémissant, le crâne bouillonnant de projets, jetant des croquis sur des bouts de papier, le soir, à la lampe, sans pouvoir décider par où il entamerait la série des grandes pages qu’il rêvait.</p>
@@ -1636,7 +1636,7 @@
         <p>« Voyons, ma chérie, nous ne sommes pas d’hier ensemble… Oui, tu avais arrangé ça, dans ta petite tête. Tu voulais être la mariée, hein ?… Voyons, ne pleure plus, tu sais bien que je ne suis pas méchant. »</p>
         <p>Il l’avait prise, elle s’abandonna. Alors ils eurent beau s’étreindre, la passion était morte. Ils le comprirent, quand ils se lâchèrent et qu’ils se retrouvèrent étendus côte à côte, étrangers désormais, avec cette sensation d’un obstacle entre eux, d’un autre corps, dont le froid les avait déjà effleurés, certains jours, dès le début ardent de leur liaison. Jamais plus, maintenant, ils ne se pénétreraient. Il y avait là quelque chose d’irréparable, une cassure, un vide qui s’était produit. L’épouse diminuait l’amante, cette formalité du mariage semblait avoir tué l’amour.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>IX</head>
         <p>Claude, qui ne pouvait peindre son grand tableau dans le petit atelier de la rue de Douai, résolut de louer autre part quelque hangar, d’espace suffisant ; et il trouva son affaire en flânant sur la butte Montmartre, à mi-côte de la rue Tourlaque, cette rue qui dévale derrière le cimetière, et d’où l’on domine Clichy, jusqu’aux marais de Gennevilliers. C’était un ancien séchoir de teinturier, une baraque de quinze mètres de long sur dix de large, dont les planches et le plâtre laissaient passer tous les vents du ciel. On lui louait ça trois cents francs. L’été allait venir, il abattrait vite son tableau, puis donnerait congé.</p>
         <p>Dès lors, il se décida à tous les frais nécessaires, dans sa fièvre de travail et d’espoir. Puisque la fortune était certaine, pourquoi l’entraver par des prudences inutiles ? Usant de son droit, il entama le capital de sa rente de mille francs, il s’habitua à prendre sans compter. D’abord, il s’était caché de Christine, car elle l’en avait empêché deux fois déjà ; et, lorsqu’il dut le dire, elle aussi, après huit jours de reproches et d’alarmes, s’y accoutuma, heureuse du bien-être où elle vivait, cédant à la douceur d’avoir toujours de l’argent dans la poche. Ce furent quelques années de tiède abandon.</p>
@@ -1847,7 +1847,7 @@
         <p>Mais Sandoz, qui se récriait, plein d’éloges, resta saisi d’entendre Claude lui dire :</p>
         <p>« Vrai, tu aimes ça ?… Alors, tu me décides. Puisque l’autre machine n’est pas prête, je vais envoyer ça au Salon. »</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>X</head>
         <p>La veille, Claude avait porté l’<hi rend="i">Enfant mort</hi> au Palais de l’Industrie, lorsqu’il rencontra Fagerolles, un matin qu’il vaguait du côté du parc Monceau.</p>
         <p>« Comment ! c’est toi, mon vieux ! s’écria cordialement ce dernier. Et qu’est-ce que tu deviens, qu’est-ce que tu fais ? On se voit si peu ! »</p>
@@ -2098,7 +2098,7 @@
         <p>« Je regarde. »</p>
         <p>Mais elle ferma la fenêtre de ses mains tremblantes, et elle en garda une telle angoisse, qu’elle ne dormait plus la nuit.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>XI</head>
         <p>Dès le lendemain, Claude s’était remis au travail, et les jours s’écoulèrent, l’été se passa, dans une tranquillité lourde. Il avait trouvé une besogne, des petits tableaux de fleurs pour l’Angleterre, dont l’argent suffisait au pain quotidien. Toutes ses heures disponibles étaient de nouveau consacrées à sa grande toile : il n’y montrait plus les mêmes éclats de colère, il semblait se résigner à ce labeur éternel, l’air calme, d’une application entêtée et sans espoir. Mais ses yeux restaient fous, on y voyait comme une mort de la lumière, quand ils se fixaient sur l’œuvre manquée de sa vie.</p>
         <p>Vers cette époque, Sandoz, lui aussi, eut un grand chagrin. Sa mère mourut, toute son existence fut bouleversée, cette existence à trois, si intime, où ne pénétraient que quelques amis. Il avait pris en haine le pavillon de la rue Nollet. D’ailleurs, un brusque succès s’était déclaré, dans la vente jusque-là pénible de ses livres ; et le ménage, comblé de cette richesse, venait de louer rue de Londres un vaste appartement, dont l’installation l’occupa pendant des mois. Son deuil avait encore rapproché Sandoz de Claude, dans un dégoût commun des choses. Après le coup terrible du Salon, il s’était inquiété de son vieux camarade, devinant en lui une cassure irréparable, quelque plaie où la vie coulait, invisible. Puis, à le voir si froid, si sage, il avait fini par se rassurer un peu.</p>
@@ -2322,7 +2322,7 @@
         <p>Christine, cette fois, sentit, à un élancement de son cœur, qu’il venait d’avoir la pensée terrible. Elle tendit ses mains vacillantes, que flagellait la bise. Mais Claude était resté tout droit, luttant contre cette douceur de mourir ; et il ne bougea pas d’une heure encore, n’ayant plus la conscience du temps, les regards toujours là-bas, sur la Cité, comme si, par un miracle de puissance, ses yeux allaient faire de la lumière et l’évoquer pour la revoir.</p>
         <p>Lorsque enfin Claude quitta le pont d’un pas qui trébuchait, Christine dut le dépasser et courir, afin d’être rentrée rue Tourlaque avant lui.</p>
       </div>
-      <div>
+      <div type="chapter">
         <head>XII</head>
         <p>Cette nuit-là, par cette bise aigre de novembre qui soufflait au travers de leur chambre et du vaste atelier, ils se couchèrent à près de trois heures. Christine, haletante de sa course, s’était glissée vivement sous la couverture, pour cacher qu’elle venait de le suivre ; et Claude, accablé, avait quitté ses vêtements un à un, sans une parole. Leur couche, depuis de longs mois, se glaçait ; ils s’y allongeaient côte à côte, en étrangers, après une lente rupture des liens de leur chair : volontaire abstinence, chasteté théorique, où il devait aboutir pour donner à la peinture toute sa virilité, et qu’elle avait acceptée, dans une douleur fière et muette, malgré le tourment de sa passion. Et jamais encore, avant cette nuit-là, elle n’avait senti entre eux un tel obstacle, un pareil froid, comme si rien désormais ne pouvait les réchauffer et les remettre aux bras l’un de l’autre.</p>
         <p>Pendant près d’un quart d’heure, elle lutta contre le sommeil envahissant. Elle était très lasse, une torpeur l’engourdissait ; et elle ne cédait pas, inquiète de le laisser éveillé. Pour dormir elle-même tranquille, elle attendait chaque soir qu’il s’endormît avant elle. Mais il n’avait pas éteint la bougie, il restait les yeux ouverts, fixés sur cette flamme qui l’aveuglait. À quoi songeait-il donc ? était-il demeuré là-bas, dans la nuit noire, dans cette haleine humide des quais, en face de Paris criblé d’étoiles, comme un ciel d’hiver ? et quel débat intérieur, quelle résolution à prendre convulsait ainsi son visage ? Puis, invinciblement, elle succomba, elle tomba au néant des grandes fatigues.</p>
